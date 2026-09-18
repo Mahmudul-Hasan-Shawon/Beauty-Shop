@@ -21,7 +21,7 @@ export default function CartDrawer({ open }) {
             <p className="muted center mt-3">Your bag is empty. Let&apos;s find something you&apos;ll love.</p>
           )}
           {cartMeta.items.map((i) => (
-            <div className="cart-line" style={{ border: 0, borderBottom: '1px solid var(--line)', borderRadius: 0, padding: '14px 0', marginBottom: 0 }} key={`${i.productId}-${i.variant}`}>
+            <div className="cart-line" style={{ border: 0, borderBottom: '1px solid rgba(255,255,255,.18)', borderRadius: 0, padding: '14px 0', marginBottom: 0 }} key={`${i.productId}-${i.variant}`}>
               <Link to={`/product/${i.slug}`} onClick={() => setCartOpen(false)}>
                 <img src={i.image || '/placeholder.png'} alt={i.name} onError={(e) => { e.target.src = '/placeholder.png'; }} />
               </Link>

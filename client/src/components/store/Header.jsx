@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Link, NavLink, useNavigate, useLocation } from 'react-router-dom';
 import { useApp } from '../../store';
 import { veilGo } from '../../lib/veilBus';
@@ -10,6 +10,40 @@ export default function Header() {
   const location = useLocation();
   const [q, setQ] = useState('');
   const store = settings.store || {};
+
+  // mobile: smoothly hide the top bar while scrolling down, reveal it scrolling up
+  const [hideTop, setHideTop] = useState(false);
+  useEffect(() => {
+    const mq = window.matchMedia('(max-width: 900px)');
+    let lastY = window.scrollY;
+    let ticking = false;
+    if (!mq.matches) return;
+    const onScroll = () => {
+      if (ticking) return;
+      ticking = true;
+      requestAnimationFrame(() => {
+        const y = window.scrollY;
+        setHideTop((prev) => {
+          if (y <= 8) return false;
+          if (y > lastY + 2) return true;
+          if (y < lastY - 6) return false;
+          return prev;
+        });
+        lastY = y;
+        ticking = false;
+      });
+    };
+    const onMq = () => {
+      if (mq.matches) { lastY = window.scrollY; window.addEventListener('scroll', onScroll, { passive: true }); }
+      else { setHideTop(false); window.removeEventListener('scroll', onScroll); }
+    };
+    onMq();
+    mq.addEventListener('change', onMq);
+    return () => { mq.removeEventListener('change', onMq); window.removeEventListener('scroll', onScroll); };
+  }, []);
+
+  // keep the top bar visible while the menu is open
+  useEffect(() => { if (menuOpen) setHideTop(false); }, [menuOpen]);
 
   // on the home page, Brands smooth-scrolls to the hero (top); elsewhere it navigates
   const goBrands = () => {
@@ -55,24 +89,26 @@ export default function Header() {
   );
 
   return (
-    <header className="header">
-      <div className="container header-inner">
-        <Link to="/" className="header-logo" onClick={goHome}>
-          <span>Petal <em>&</em> Rose</span>
-        </Link>
+    <>
+      <header className={`header ${hideTop ? 'hidden' : ''}`}>
+        <div className="container header-inner">
+          <Link to="/" className="header-logo" onClick={goHome}>
+            <span>Petal <em>&</em> Rose</span>
+          </Link>
 
-        <nav className="nav-links">
-          {links.map((l) =>
-            l.to === '/brands'
-              ? <a key={l.to} href="#" className={location.pathname === '/brands' ? 'active' : ''} onClick={(e) => { e.preventDefault(); e.stopPropagation(); goBrands(); }}>{l.label}</a>
-              : <NavLink key={l.to} to={l.to} end={l.to === '/'} className={({ isActive }) => (isActive ? 'active' : '')}>{l.label}</NavLink>
-          )}
-        </nav>
+          <nav className="nav-links">
+            {links.map((l) =>
+              l.to === '/brands'
+                ? <a key={l.to} href="#" className={location.pathname === '/brands' ? 'active' : ''} onClick={(e) => { e.preventDefault(); e.stopPropagation(); goBrands(); }}>{l.label}</a>
+                : <NavLink key={l.to} to={l.to} end={l.to === '/'} className={({ isActive }) => (isActive ? 'active' : '')}>{l.label}</NavLink>
+            )}
+          </nav>
 
-        <div className="header-actions">
-          {search}{track}{wishBtn}{cart}
+          <div className="header-actions">
+            {search}{track}{wishBtn}{cart}
+          </div>
         </div>
-      </div>
+      </header>
 
       <div className={`mobile-dock ${menuOpen ? 'open' : ''}`}>
         <button className="icon-btn" onClick={() => setMenuOpen(!menuOpen)} aria-label="menu">
@@ -83,6 +119,9 @@ export default function Header() {
 
       {menuOpen && (
         <div className="mobile-nav-overlay" onClick={() => setMenuOpen(false)}>
+          <Link to="/" className="mobile-nav-logo" onClick={() => setMenuOpen(false)}>
+            <span>Petal <em>&</em> Rose</span>
+          </Link>
           <nav className="mobile-nav-list">
             {links.map((l) => (
               <Link key={l.to} to={l.to} onClick={() => setMenuOpen(false)}>{l.label}</Link>
@@ -90,6 +129,6 @@ export default function Header() {
           </nav>
         </div>
       )}
-    </header>
+    </>
   );
 }

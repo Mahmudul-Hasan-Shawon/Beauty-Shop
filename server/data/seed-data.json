@@ -1,0 +1,3730 @@
+{
+  "meta": {
+    "source": {
+      "siteTitle": "",
+      "tagline": "Your Glow, Our Pride ✿",
+      "currencySymbol": "৳",
+      "insideDhakaCharge": 60,
+      "outsideDhakaCharge": 120,
+      "freeDeliveryMin": 2500,
+      "whatsappNumber": 8801874460244,
+      "facebookUrl": "https://facebook.com/shalikglowcorner",
+      "email": "shalikbeauty@gmail.com",
+      "bkashAccount": "01XXXXXXXXX",
+      "nagadAccount": "01XXXXXXXXX",
+      "bannerActive": "No",
+      "bannerText": "No",
+      "specialOffersOn": "No",
+      "appsScriptWebAppUrl": "https://script.google.com/macros/s/AKfycbxriqOAO51MW3ekmUhGZ6TWvEqgn9a7wYV6JxU5tvdkiu04VnLvlzRfi6B9JApXUXqLrg/exec",
+      "totalProduct": 37,
+      "whatsAppNumber": 8801874460244,
+      "bKashAccount": "01XXXXXXXXX",
+      "totalProducts": 54
+    }
+  },
+  "categories": [
+    {
+      "name": "Skincare",
+      "slug": "skincare",
+      "description": "Cleansers, serums, toners and creams designed to build a healthy, glowing complexion.",
+      "image": "https://images.unsplash.com/photo-1570194065650-d99fb4b8ccb0?w=900&auto=format",
+      "sortOrder": 1
+    },
+    {
+      "name": "Makeup",
+      "slug": "makeup",
+      "description": "Foundations, BB creams and color essentials for a flawless, natural finish.",
+      "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=900&auto=format",
+      "sortOrder": 2
+    },
+    {
+      "name": "Hair Care",
+      "slug": "hair-care",
+      "description": "Shampoos, masks and treatments that nourish hair from root to tip.",
+      "image": "https://images.unsplash.com/photo-1526047932273-341f2a7631f9?w=900&auto=format",
+      "sortOrder": 3
+    },
+    {
+      "name": "Body Care",
+      "slug": "body-care",
+      "description": "Body lotions, scrubs and bath essentials for soft, cared-for skin.",
+      "image": "https://images.unsplash.com/photo-1556228852-6d35a585d566?w=900&auto=format",
+      "sortOrder": 4
+    },
+    {
+      "name": "Fragrance",
+      "slug": "fragrance",
+      "description": "Scented favorites to layer into your daily beauty ritual.",
+      "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=900&auto=format",
+      "sortOrder": 5
+    },
+    {
+      "name": "Lip Care",
+      "slug": "lip-care",
+      "description": "Tinted balms and treatments for soft, healthy lips.",
+      "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=900&auto=format",
+      "sortOrder": 6
+    },
+    {
+      "name": "Sun Care",
+      "slug": "sun-care",
+      "description": "Everyday SPF heroes that protect without heaviness or white cast.",
+      "image": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab12?w=900&auto=format",
+      "sortOrder": 7
+    },
+    {
+      "name": "Beauty Tools",
+      "slug": "beauty-tools",
+      "description": "Tools and accessories to elevate your at-home routine.",
+      "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=900&auto=format",
+      "sortOrder": 8
+    }
+  ],
+  "brands": [
+    {
+      "name": "The face shop",
+      "slug": "the-face-shop",
+      "description": "The face shop — a curated skincare label trusted for high-quality, results-driven beauty products.",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&auto=format",
+      "featured": true
+    },
+    {
+      "name": "Beauty of joseon",
+      "slug": "beauty-of-joseon",
+      "description": "Beauty of joseon — a curated skincare label trusted for high-quality, results-driven beauty products.",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&auto=format",
+      "featured": true
+    },
+    {
+      "name": "Skin1004",
+      "slug": "skin1004",
+      "description": "Skin1004 — a curated skincare label trusted for high-quality, results-driven beauty products.",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&auto=format",
+      "featured": true
+    },
+    {
+      "name": "The ordinary",
+      "slug": "the-ordinary",
+      "description": "The ordinary — a curated skincare label trusted for high-quality, results-driven beauty products.",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&auto=format",
+      "featured": true
+    },
+    {
+      "name": "Axis-y",
+      "slug": "axis-y",
+      "description": "Axis-y — a curated skincare label trusted for high-quality, results-driven beauty products.",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&auto=format",
+      "featured": true
+    },
+    {
+      "name": "Beaute",
+      "slug": "beaute",
+      "description": "Beaute — a curated skincare label trusted for high-quality, results-driven beauty products.",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&auto=format",
+      "featured": true
+    },
+    {
+      "name": "Missha",
+      "slug": "missha",
+      "description": "Missha — a curated skincare label trusted for high-quality, results-driven beauty products.",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&auto=format",
+      "featured": true
+    },
+    {
+      "name": "Dabo",
+      "slug": "dabo",
+      "description": "Dabo — a curated skincare label trusted for high-quality, results-driven beauty products.",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&auto=format",
+      "featured": true
+    },
+    {
+      "name": "Arencia",
+      "slug": "arencia",
+      "description": "Arencia — a curated skincare label trusted for high-quality, results-driven beauty products.",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&auto=format",
+      "featured": false
+    },
+    {
+      "name": "IM FROM",
+      "slug": "im-from",
+      "description": "IM FROM — a curated skincare label trusted for high-quality, results-driven beauty products.",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&auto=format",
+      "featured": false
+    },
+    {
+      "name": "FARMSTAY",
+      "slug": "farmstay",
+      "description": "FARMSTAY — a curated skincare label trusted for high-quality, results-driven beauty products.",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&auto=format",
+      "featured": false
+    },
+    {
+      "name": "Nature Skin",
+      "slug": "nature-skin",
+      "description": "Nature Skin — a curated skincare label trusted for high-quality, results-driven beauty products.",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&auto=format",
+      "featured": false
+    },
+    {
+      "name": "COSRX",
+      "slug": "cosrx",
+      "description": "COSRX — a curated skincare label trusted for high-quality, results-driven beauty products.",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&auto=format",
+      "featured": false
+    },
+    {
+      "name": "MISSHA",
+      "slug": "missha",
+      "description": "MISSHA — a curated skincare label trusted for high-quality, results-driven beauty products.",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&auto=format",
+      "featured": false
+    },
+    {
+      "name": "3W Clinic",
+      "slug": "3w-clinic",
+      "description": "3W Clinic — a curated skincare label trusted for high-quality, results-driven beauty products.",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&auto=format",
+      "featured": false
+    },
+    {
+      "name": "Tiam",
+      "slug": "tiam",
+      "description": "Tiam — a curated skincare label trusted for high-quality, results-driven beauty products.",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&auto=format",
+      "featured": false
+    },
+    {
+      "name": "SKIN1004",
+      "slug": "skin1004",
+      "description": "SKIN1004 — a curated skincare label trusted for high-quality, results-driven beauty products.",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&auto=format",
+      "featured": false
+    },
+    {
+      "name": "Celimax",
+      "slug": "celimax",
+      "description": "Celimax — a curated skincare label trusted for high-quality, results-driven beauty products.",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&auto=format",
+      "featured": false
+    }
+  ],
+  "products": [
+    {
+      "title": "Rice water bright foaming cleanser",
+      "brand": "The face shop",
+      "category": "Cleanser",
+      "mainCategory": "Skincare",
+      "productType": "Cleanser",
+      "size": "100 ml",
+      "sku": "TFSRWBFC-100",
+      "oldPrice": 1150,
+      "offerPrice": 749,
+      "discountPct": 35,
+      "stock": 175,
+      "imageUrl": "https://cdn.bdstall.com/product-image/450008_800X800.webp",
+      "gallery": [
+        "https://cdn.bdstall.com/product-image/450008_800X800.webp",
+        "https://static-01.daraz.com.bd/p/9ca50e7cae1ccd8e284cf1dbe1dde138.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A gentle yet effective cleanser that lifts away impurities, excess sebum and makeup residue while leaving skin soft, comfortable and balanced.",
+      "description": "Rice water bright foaming cleanser by The face shop — a cleanser curated for the modern skincare routine. A gentle yet effective cleanser that lifts away impurities, excess sebum and makeup residue while leaving skin soft, comfortable and balanced. Presented in a 100 ml size for consistent, everyday use.",
+      "benefits": [
+        "Deep cleansing",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "Massage a small amount onto damp skin in gentle circular motions, then rinse thoroughly with lukewarm water. Use morning and evening.",
+      "ingredients": [
+        "Rice Water",
+        "Rice Bran Oil",
+        "Saponaria Officinalis Extract",
+        "Glycerin",
+        "Ceramide NP"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Brightening"
+      ],
+      "faq": [
+        {
+          "q": "Is Rice water bright foaming cleanser authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Rice water bright foaming cleanser suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "100 ml",
+          "sku": "TFSRWBFC-100",
+          "stock": 100,
+          "price": 749,
+          "oldPrice": 1099,
+          "image": "https://cdn.bdstall.com/product-image/450008_800X800.webp"
+        },
+        {
+          "size": "150 ml",
+          "sku": "TFSRWBFC-150",
+          "stock": 75,
+          "price": 949,
+          "oldPrice": 1150,
+          "image": "https://static-01.daraz.com.bd/p/9ca50e7cae1ccd8e284cf1dbe1dde138.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Rice ceramide moisturizing cream",
+      "brand": "The face shop",
+      "category": "Cream",
+      "mainCategory": "Skincare",
+      "productType": "Cream",
+      "size": "50 ml",
+      "sku": "TFSRCMC-50",
+      "oldPrice": 1470,
+      "offerPrice": 1249,
+      "discountPct": 15,
+      "stock": 175,
+      "imageUrl": "https://au.thefaceshop.com/cdn/shop/files/RICE_CERAMIDECream.jpg?v=1753704558&width=1440",
+      "gallery": [
+        "https://au.thefaceshop.com/cdn/shop/files/RICE_CERAMIDECream.jpg?v=1753704558&width=1440"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion.",
+      "description": "Rice ceramide moisturizing cream by The face shop — a cream curated for the modern skincare routine. A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion. Presented in a 50 ml size for consistent, everyday use.",
+      "benefits": [
+        "Deep hydration",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "Rice extract ও rice bran oil ত্বককে গভীরভাবে ময়েশ্চারাইজ করতে সহায়তা করে Ceramide NP ও glycosphingolipids ত্বকের ময়েশ্চার বেরিয়ার শক্তিশালী রাখতে সহায়তা করে Glycerin ও sodium hyaluronate ত্বকে হাইড্রেশন ধরে রাখতে সহায়তা করে Shea butter ও lecithin ত্বককে নরম ও কোমল রাখতে সহায়তা করে ত্বকের শুষ্ক ও টানটান ভাব কমিয়ে আরামদায়ক অনুভূতি দিতে সহায়তা করে রিচ কিন্তু সিল্কি টেক্সচার, তাই ভারী বা আঠালো ভাব না রেখেই ত্বকে মিশে যায় ত্বকের রুক্ষ ভাব কমিয়ে স্কিন টেক্সচার মসৃণ দেখাতে সহায়তা করে Paraben free, tar color free, mineral oil free ও talc free ফর্মুলা শুষ্ক আবহাওয়া বা এসির মধ্যে থাকলে ত্বকের ময়েশ্চার লস কমাতে সহায়তা করে"
+      ],
+      "howToUse": "After serum, apply an even layer over the face and neck, gently pressing into skin until fully absorbed. Use morning and evening as the final step.",
+      "ingredients": [
+        "Rice Water",
+        "Rice Bran Oil",
+        "Saponaria Officinalis Extract",
+        "Glycerin",
+        "Ceramide NP"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Hydration"
+      ],
+      "faq": [
+        {
+          "q": "Is Rice ceramide moisturizing cream authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Rice ceramide moisturizing cream suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "50 ml",
+          "sku": "TFSRCMC-50",
+          "stock": 175,
+          "price": 1249,
+          "oldPrice": 1200,
+          "image": "https://au.thefaceshop.com/cdn/shop/files/RICE_CERAMIDECream.jpg?v=1753704558&width=1440"
+        }
+      ]
+    },
+    {
+      "title": "Relief Sun Rice + Probiotics",
+      "brand": "Beauty of joseon",
+      "category": "Sunscreen",
+      "mainCategory": "Sun Care",
+      "productType": "Sunscreen",
+      "size": "50 ml",
+      "sku": "Bojrsrp-50",
+      "oldPrice": 1689,
+      "offerPrice": 1299,
+      "discountPct": 23,
+      "stock": 150,
+      "imageUrl": "https://aubeautybazaar.com/cdn/shop/files/beauty-of-joseon-relief-sun-10ml-3896945.png?v=1771417989",
+      "gallery": [
+        "https://aubeautybazaar.com/cdn/shop/files/beauty-of-joseon-relief-sun-10ml-3896945.png?v=1771417989"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives.",
+      "description": "Relief Sun Rice + Probiotics by Beauty of joseon — a sunscreen curated for the modern skincare routine. A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives. Presented in a 50 ml size for consistent, everyday use.",
+      "benefits": [
+        "Targeted treatment",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "SPF50+ PA++++ প্রোটেকশন দিয়ে UVB ও UVA উভয় রশ্মি থেকে ত্বককে সুরক্ষিত রাখতে সহায়তা করে ৩০% Rice extract ত্বকে হাইড্রেশন যোগ করে ডাল ভাব কমাতে সহায়তা করে Grain probiotics বা ফার্মেন্টেড শস্যের নির্যাস ত্বকের নিজস্ব শক্তি ধরে রাখতে সহায়তা করে Niacinamide স্কিন টোন ইভেন ও উজ্জ্বল দেখাতে সহায়তা করে Green tea leaf extract ও ginseng root extract ত্বককে আরাম দিতে সহায়তা করে হালকা ক্রিম টেক্সচার, ত্বকে দ্রুত শোষিত হয় এবং white cast রাখে না Pilling ছাড়াই বসে যায়, তাই makeup এর নিচেও ব্যবহার করা যায় শুষ্ক ত্বকে টানটান ভাব না রেখে ময়েশ্চার ধরে রাখতে সহায়তা করে কোরিয়া ও স্পেনের দুটি আলাদা ল্যাব থেকে SPF 50 সার্টিফায়েড"
+      ],
+      "howToUse": "After toning, dispense 2-3 drops and press gently into skin. Follow with moisturizer. Use in the morning or evening as directed.",
+      "ingredients": [
+        "Rice Water",
+        "Rice Bran Oil",
+        "Saponaria Officinalis Extract",
+        "Glycerin",
+        "Ceramide NP"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Sun Protection",
+        "Soothing"
+      ],
+      "faq": [
+        {
+          "q": "Is Relief Sun Rice + Probiotics authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Relief Sun Rice + Probiotics suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "50 ml",
+          "sku": "Bojrsrp-50",
+          "stock": 150,
+          "price": 1299,
+          "oldPrice": 1689,
+          "image": "https://aubeautybazaar.com/cdn/shop/files/beauty-of-joseon-relief-sun-10ml-3896945.png?v=1771417989"
+        }
+      ]
+    },
+    {
+      "title": "Relief Sun Aqua-fresh : Rice + B5",
+      "brand": "Beauty of joseon",
+      "category": "Sunscreen",
+      "mainCategory": "Sun Care",
+      "productType": "Sunscreen",
+      "size": "50 ml",
+      "sku": "Bojrsafrb-50",
+      "oldPrice": 1650,
+      "offerPrice": 1399,
+      "discountPct": 15,
+      "stock": 7,
+      "imageUrl": "https://poripati.net/wp-content/uploads/2026/04/Beauty-Of-Joseon-Relief-Sun-Aqua-Fresh-Rice-B5-SPF50-PA.jpg",
+      "gallery": [
+        "https://poripati.net/wp-content/uploads/2026/04/Beauty-Of-Joseon-Relief-Sun-Aqua-Fresh-Rice-B5-SPF50-PA.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives.",
+      "description": "Relief Sun Aqua-fresh : Rice + B5 by Beauty of joseon — a sunscreen curated for the modern skincare routine. A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives. Presented in a 50 ml size for consistent, everyday use.",
+      "benefits": [
+        "Targeted treatment",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "SPF50+ PA++++ প্রোটেকশন দিয়ে UVB ও UVA উভয় রশ্মি থেকে ত্বককে সুরক্ষিত রাখতে সহায়তা করে পানির মতো হালকা ও ফ্রেশ টেক্সচার, ত্বকে দ্রুত মিশে যায় Rice seed water ত্বকে হাইড্রেশন যোগ করে ডাল ভাব কমাতে সহায়তা করে Panthenol বা vitamin B5 ত্বককে আরাম দিতে ও ময়েশ্চার ধরে রাখতে সহায়তা করে Ceramide NP ও phytosphingosine ত্বকের ময়েশ্চার বেরিয়ার শক্তিশালী রাখতে সহায়তা করে Oat kernel extract ও beta-glucan সংবেদনশীল ত্বককে শান্ত রাখতে সহায়তা করে Tocopherol ও ferulic acid অ্যান্টিঅক্সিডেন্ট সাপোর্ট দিতে সহায়তা করে White cast বা চিটচিটে ভাব রাখে না, তাই গরম ও আর্দ্র আবহাওয়ায় আরামদায়ক Silica থাকায় ত্বকে হালকা সেমি-ম্যাট ফিনিশ দিতে সহায়তা করে Makeup এর নিচে base হিসেবেও ব্যবহার করা যায়"
+      ],
+      "howToUse": "After toning, dispense 2-3 drops and press gently into skin. Follow with moisturizer. Use in the morning or evening as directed.",
+      "ingredients": [
+        "Rice Water",
+        "Rice Bran Oil",
+        "Saponaria Officinalis Extract",
+        "Glycerin",
+        "Ceramide NP"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Sun Protection",
+        "Soothing"
+      ],
+      "faq": [
+        {
+          "q": "Is Relief Sun Aqua-fresh : Rice + B5 authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Relief Sun Aqua-fresh : Rice + B5 suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "50 ml",
+          "sku": "Bojrsafrb-50",
+          "stock": 7,
+          "price": 1399,
+          "oldPrice": 1650,
+          "image": "https://poripati.net/wp-content/uploads/2026/04/Beauty-Of-Joseon-Relief-Sun-Aqua-Fresh-Rice-B5-SPF50-PA.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Glow Deep Serum : Rice + Arbutin",
+      "brand": "Beauty of joseon",
+      "category": "Serum",
+      "mainCategory": "Skincare",
+      "productType": "Serum",
+      "size": "30 ml",
+      "sku": "Bojgdsra-30",
+      "oldPrice": 1550,
+      "offerPrice": 1249,
+      "discountPct": 19,
+      "stock": 280,
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1835/27c3e0cd-b1e5-4db0-93a0-355b30c988a3.jpg?RS=1500x1500&AR=0&QT=80",
+      "gallery": [
+        "https://cdn-image.oliveyoung.com/prdtImg/1835/27c3e0cd-b1e5-4db0-93a0-355b30c988a3.jpg?RS=1500x1500&AR=0&QT=80"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives.",
+      "description": "Glow Deep Serum : Rice + Arbutin by Beauty of joseon — a serum curated for the modern skincare routine. A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives. Presented in a 30 ml size for consistent, everyday use.",
+      "benefits": [
+        "Targeted treatment",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "Rice bran water ত্বকে হাইড্রেশন যোগ করে ডাল বা নিস্তেজ ভাব কমাতে সহায়তা করে ২% Alpha-arbutin দাগছোপ ও পিগমেন্টেশনের চেহারা হালকা দেখাতে সহায়তা করে Niacinamide অসম স্কিন টোন ইভেন ও উজ্জ্বল দেখাতে সহায়তা করে Acne scar বা ব্রণের দাগের চেহারা ধীরে ধীরে কম দেখাতে সহায়তা করে Panthenol ও glyceryl glucoside ত্বককে নরম ও আরামদায়ক রাখতে সহায়তা করে হালকা ও পানির মতো টেক্সচার হওয়ায় দ্রুত মিশে যায় এবং চিটচিটে ভাব রাখে না Essential oil, paraben, sulfate ও কৃত্রিম fragrance মুক্ত হওয়ায় সেনসিটিভ স্কিনেও তুলনামূলক মৃদু Makeup বা sunscreen এর নিচে লেয়ার করে ব্যবহার করা যায়"
+      ],
+      "howToUse": "After toning, dispense 2-3 drops and press gently into skin. Follow with moisturizer. Use in the morning or evening as directed.",
+      "ingredients": [
+        "Rice Water",
+        "Rice Bran Oil",
+        "Saponaria Officinalis Extract",
+        "Glycerin",
+        "Ceramide NP"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Brightening"
+      ],
+      "faq": [
+        {
+          "q": "Is Glow Deep Serum : Rice + Arbutin authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Glow Deep Serum : Rice + Arbutin suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "30 ml",
+          "sku": "Bojgdsra-30",
+          "stock": 280,
+          "price": 1249,
+          "oldPrice": 1550,
+          "image": "https://cdn-image.oliveyoung.com/prdtImg/1835/27c3e0cd-b1e5-4db0-93a0-355b30c988a3.jpg?RS=1500x1500&AR=0&QT=80"
+        }
+      ]
+    },
+    {
+      "title": "Calming Serum : Green tea + Panthenol",
+      "brand": "Beauty of joseon",
+      "category": "Serum",
+      "mainCategory": "Skincare",
+      "productType": "Serum",
+      "size": "30 ml",
+      "sku": "Bojcsgtp-30",
+      "oldPrice": 1550,
+      "offerPrice": 1349,
+      "discountPct": 13,
+      "stock": 6,
+      "imageUrl": "https://glowberry.gr/cdn/shop/files/71kTiwQf_dL._SL1500.jpg?v=1765898684&width=1946",
+      "gallery": [
+        "https://glowberry.gr/cdn/shop/files/71kTiwQf_dL._SL1500.jpg?v=1765898684&width=1946"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives.",
+      "description": "Calming Serum : Green tea + Panthenol by Beauty of joseon — a serum curated for the modern skincare routine. A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives. Presented in a 30 ml size for consistent, everyday use.",
+      "benefits": [
+        "Targeted treatment",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "Green tea leaf water ত্বকে ঠান্ডা ও আরামদায়ক অনুভূতি দিতে সহায়তা করে Artemisia বা মাগওয়ার্ট এক্সট্র্যাক্ট লালচে ভাব ও জ্বালাভাব কমাতে সহায়তা করে ৫% Panthenol ত্বকের ময়েশ্চার বেরিয়ার শক্তিশালী রাখতে সহায়তা করে রোদে বা বাহ্যিক কারণে ক্লান্ত হয়ে পড়া ত্বককে শান্ত রাখতে সহায়তা করে Allantoin ও dipotassium glycyrrhizate সংবেদনশীল ত্বককে আরাম দিতে সহায়তা করে Sodium hyaluronate ত্বকে হাইড্রেশন ধরে রাখতে সহায়তা করে অতিরিক্ত তেলতেলে ভাব নিয়ন্ত্রণে রাখতে সহায়তা করে, তাই oily ও acne-prone স্কিনেও ব্যবহার উপযোগী Harsh alcohol, paraben, silicone, oil ও sulfate মুক্ত ফর্মুলা কৃত্রিম colorant ছাড়াই প্রাকৃতিক হালকা সবুজাভ রঙ"
+      ],
+      "howToUse": "After toning, dispense 2-3 drops and press gently into skin. Follow with moisturizer. Use in the morning or evening as directed.",
+      "ingredients": [
+        "Green Tea Extract",
+        "Panthenol",
+        "Centella Asiatica",
+        "Tea Tree Leaf Extract"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Soothing"
+      ],
+      "faq": [
+        {
+          "q": "Is Calming Serum : Green tea + Panthenol authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Calming Serum : Green tea + Panthenol suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "30 ml",
+          "sku": "Bojcsgtp-30",
+          "stock": 6,
+          "price": 1349,
+          "oldPrice": 1550,
+          "image": "https://glowberry.gr/cdn/shop/files/71kTiwQf_dL._SL1500.jpg?v=1765898684&width=1946"
+        }
+      ]
+    },
+    {
+      "title": "Ground Rice and Honey Glow Mask",
+      "brand": "Beauty of joseon",
+      "category": "Mask",
+      "mainCategory": "Skincare",
+      "productType": "Mask",
+      "size": "150 ml",
+      "sku": "Bojgrahgm-150",
+      "oldPrice": 1689,
+      "offerPrice": 1299,
+      "discountPct": 23,
+      "stock": 175,
+      "imageUrl": "https://www.lamourlife.com/cdn/shop/files/BeautyofJoseonGroundRiceandHoneyGlowMask150ml_01.png?v=1762980856&width=1024",
+      "gallery": [
+        "https://www.lamourlife.com/cdn/shop/files/BeautyofJoseonGroundRiceandHoneyGlowMask150ml_01.png?v=1762980856&width=1024"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A pampering wash-off mask that drenches skin with conditioning actives for an instant refreshed, radiant finish.",
+      "description": "Ground Rice and Honey Glow Mask by Beauty of joseon — a mask curated for the modern skincare routine. A pampering wash-off mask that drenches skin with conditioning actives for an instant refreshed, radiant finish. Presented in a 150 ml size for consistent, everyday use.",
+      "benefits": [
+        "Instant radiance",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "Rice Wine Complex ত্বককে ব্রাইট, হাইড্রেটেড ও ইলাস্টিসিটির দিক থেকে বাউন্সি রাখতে সহায়তা করে Rice Hull Powder জেন্টলি এক্সফোলিয়েট করে ডেড স্কিন সেল ও ইমপিউরিটিজ দূর করতে সহায়তা করে Honey ত্বককে সুদ্ধ ও হাইড্রেট রাখতে সহায়তা করে Kaolin Clay অতিরিক্ত সেবাম শোষণ করে পোরস পরিষ্কার রাখতে সহায়তা করে Plant-based ingredients দিয়ে তৈরি, Cruelty-free ও Pregnancy Safe Fragrance-free ফর্মুলা (তবে rice wine complex ও honey এর মতো প্রাকৃতিক উপাদান থেকে হালকা সাবটল সুগন্ধ থাকতে পারে) Makgeolli-inspired হলেও ফাইনাল ফর্মুলায় কোনো অ্যালকোহল নেই, কারণ ম্যানুফ্যাকচারিং প্রসেসে তা এভাপোরেট হয়ে যায়"
+      ],
+      "howToUse": "Apply an even layer to clean dry skin, leave on for 15–20 minutes, then rinse with lukewarm water. Use 1–2 times a week.",
+      "ingredients": [
+        "Rice Bran",
+        "Honey Extract",
+        "Propolis Extract",
+        "Royal Jelly"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Brightening"
+      ],
+      "faq": [
+        {
+          "q": "Is Ground Rice and Honey Glow Mask authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Ground Rice and Honey Glow Mask suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "150 ml",
+          "sku": "Bojgrahgm-150",
+          "stock": 175,
+          "price": 1299,
+          "oldPrice": 1689,
+          "image": "https://www.lamourlife.com/cdn/shop/files/BeautyofJoseonGroundRiceandHoneyGlowMask150ml_01.png?v=1762980856&width=1024"
+        }
+      ]
+    },
+    {
+      "title": "Centella Hyalu-Cica Water-Fit Sun Serum",
+      "brand": "Skin1004",
+      "category": "Sunscreen",
+      "mainCategory": "Sun Care",
+      "productType": "Sunscreen",
+      "size": "50 ml",
+      "sku": "Chcwfss-50",
+      "oldPrice": 1299,
+      "offerPrice": 999,
+      "discountPct": 23,
+      "stock": 10,
+      "imageUrl": "https://kcbazar.com/wp-content/uploads/2025/03/SKIN1004-Madagascar-Centella-Hyalu-Cica-Water-Fit-Sun-Serum-Spf-50-PA-50-ml-2-1.jpg",
+      "gallery": [
+        "https://kcbazar.com/wp-content/uploads/2025/03/SKIN1004-Madagascar-Centella-Hyalu-Cica-Water-Fit-Sun-Serum-Spf-50-PA-50-ml-2-1.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives.",
+      "description": "Centella Hyalu-Cica Water-Fit Sun Serum by Skin1004 — a sunscreen curated for the modern skincare routine. A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives. Presented in a 50 ml size for consistent, everyday use.",
+      "benefits": [
+        "Targeted treatment",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "SPF50+ PA++++ দিয়ে ইফেক্টিভ UVA ও UVB প্রোটেকশন দেয় Centella Asiatica Extract ও Hyaluronic Acid এর Hyalu-Cica কম্বিনেশন ত্বককে সুদ্ধ ও হাইড্রেট করতে সহায়তা করে আল্ট্রা-লাইটওয়েট, নন-স্টিকি, সিরাম-এর মতো টেক্সচার যা দ্রুত absorb হয়ে যায় কোনো white cast ছাড়া ডিউয়ি ফিনিশ দেয় Green Complex (৭ ধরনের এক্সট্র্যাক্ট) অ্যান্টিঅক্সিডেন্ট ও মিনারেলের উৎস Reef Safe ফর্মুলা, সামুদ্রিক ইকোসিস্টেমের ক্ষতিকারক নির্দিষ্ট UV ফিল্টার মুক্ত"
+      ],
+      "howToUse": "After toning, dispense 2-3 drops and press gently into skin. Follow with moisturizer. Use in the morning or evening as directed.",
+      "ingredients": [
+        "Centella Asiatica Extract",
+        "Hyaluronic Acid",
+        "Niacinamide",
+        "Madecassoside",
+        "Glycerin"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Sun Protection",
+        "Soothing"
+      ],
+      "faq": [
+        {
+          "q": "Is Centella Hyalu-Cica Water-Fit Sun Serum authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Centella Hyalu-Cica Water-Fit Sun Serum suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "50 ml",
+          "sku": "Chcwfss-50",
+          "stock": 10,
+          "price": 999,
+          "oldPrice": 1299,
+          "image": "https://kcbazar.com/wp-content/uploads/2025/03/SKIN1004-Madagascar-Centella-Hyalu-Cica-Water-Fit-Sun-Serum-Spf-50-PA-50-ml-2-1.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Centella Light Cleansing Oil",
+      "brand": "Skin1004",
+      "category": "Oil",
+      "mainCategory": "Skincare",
+      "productType": "Oil",
+      "size": "30 ml",
+      "sku": "Sclco-30",
+      "oldPrice": 1200,
+      "offerPrice": 550,
+      "discountPct": 54,
+      "stock": 7,
+      "imageUrl": "https://skin1004india.com/cdn/shop/files/skin1004-cleanser-centella-light-cleansing-oil-38409133490422.jpg?v=1771411449&width=2048",
+      "gallery": [
+        "https://skin1004india.com/cdn/shop/files/skin1004-cleanser-centella-light-cleansing-oil-38409133490422.jpg?v=1771411449&width=2048"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A silky cleansing oil that melts away makeup and sunscreen while keeping the skin barrier soft and supple.",
+      "description": "Centella Light Cleansing Oil by Skin1004 — a oil curated for the modern skincare routine. A silky cleansing oil that melts away makeup and sunscreen while keeping the skin barrier soft and supple. Presented in a 30 ml size for consistent, everyday use.",
+      "benefits": [
+        "Makeup melting cleanse",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "Centella Asiatica Extract ত্বককে সুদ্ধ করে ও হাইড্রেশন লেভেল রিপ্লেনিশ করতে সহায়তা করে মেকআপ, সানস্ক্রিন, ময়লা ও অতিরিক্ত সিবাম জেন্টলি ও কার্যকরভাবে দূর করে চোখের সংবেদনশীল অংশেও ব্যবহার করা যায়, কোনো স্টিং ছাড়াই পানির সংস্পর্শে এলে মিল্কি টেক্সচারে ইমালসিফাই হয়ে যায়, ফলে কোনো তেলতেলে অবশিষ্টাংশ থাকে না Jojoba, Olive ও Sunflower এর মতো প্ল্যান্ট অয়েল ত্বককে হাইড্রেট ও সফট রাখতে সহায়তা করে মিনিমালিস্ট, স্বল্প-ইনগ্রেডিয়েন্ট ফর্মুলা, ডাবল ক্লিনজিং রুটিনের প্রথম ধাপ হিসেবে উপযোগী"
+      ],
+      "howToUse": "Massage dry hands and apply to dry skin, emulsify with water to a milk, then rinse and follow with a water-based cleanser.",
+      "ingredients": [
+        "Centella Asiatica Extract",
+        "Hyaluronic Acid",
+        "Niacinamide",
+        "Madecassoside",
+        "Glycerin"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Oil Control",
+        "Soothing"
+      ],
+      "faq": [
+        {
+          "q": "Is Centella Light Cleansing Oil authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Centella Light Cleansing Oil suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "30 ml",
+          "sku": "Sclco-30",
+          "stock": 7,
+          "price": 550,
+          "oldPrice": 1200,
+          "image": "https://skin1004india.com/cdn/shop/files/skin1004-cleanser-centella-light-cleansing-oil-38409133490422.jpg?v=1771411449&width=2048"
+        }
+      ]
+    },
+    {
+      "title": "Centella Tone Brightening Capsule Ampoule",
+      "brand": "Skin1004",
+      "category": "Ampoule",
+      "mainCategory": "Skincare",
+      "productType": "Ampoule",
+      "size": "30 ml",
+      "sku": "Sctbca-30",
+      "oldPrice": 2090,
+      "offerPrice": 1699,
+      "discountPct": 19,
+      "stock": 380,
+      "imageUrl": "https://cosibella-wholesale.com/hpeciai/4d173c1e71becb2db87937996e984369/eng_pl_SKIN1004-Madagascar-Centella-Tone-Brightening-Capsule-Ampoule-Brightening-Ampoule-with-Asian-Centella-30ml-13943_1.webp",
+      "gallery": [
+        "https://cosibella-wholesale.com/hpeciai/4d173c1e71becb2db87937996e984369/eng_pl_SKIN1004-Madagascar-Centella-Tone-Brightening-Capsule-Ampoule-Brightening-Ampoule-with-Asian-Centella-30ml-13943_1.webp",
+        "https://cdn-image.oliveyoung.com/prdtImg/1646/95aa899d-d54c-4bbe-a45c-81e65c038248.jpg?RS=1500x1500&AR=0&SF=webp&QT=80",
+        "https://www.koreanbeautykr.com/cdn/shop/files/skin1004-017977kn-1_1024x1024_b803f71c-753e-4477-82f0-246c5bed6c1b.webp?v=1743413802&width=1200"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A lightweight concentrated ampoule that delivers a high dose of potent actives to visibly improve skin tone and texture.",
+      "description": "Centella Tone Brightening Capsule Ampoule by Skin1004 — a ampoule curated for the modern skincare routine. A lightweight concentrated ampoule that delivers a high dose of potent actives to visibly improve skin tone and texture. Presented in a 30 ml size for consistent, everyday use.",
+      "benefits": [
+        "Concentrated actives",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "Apply a few drops after toner over the whole face, pressing gently into skin. Seal with a moisturizer.",
+      "ingredients": [
+        "Centella Asiatica Extract",
+        "Hyaluronic Acid",
+        "Niacinamide",
+        "Madecassoside",
+        "Glycerin"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Brightening",
+        "Soothing"
+      ],
+      "faq": [
+        {
+          "q": "Is Centella Tone Brightening Capsule Ampoule authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Centella Tone Brightening Capsule Ampoule suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "30 ml",
+          "sku": "Sctbca-30",
+          "stock": 140,
+          "price": 1699,
+          "oldPrice": 2090,
+          "image": "https://cosibella-wholesale.com/hpeciai/4d173c1e71becb2db87937996e984369/eng_pl_SKIN1004-Madagascar-Centella-Tone-Brightening-Capsule-Ampoule-Brightening-Ampoule-with-Asian-Centella-30ml-13943_1.webp"
+        },
+        {
+          "size": "50 ml",
+          "sku": "Sctbca-50",
+          "stock": 140,
+          "price": 1699,
+          "oldPrice": 2090,
+          "image": "https://cdn-image.oliveyoung.com/prdtImg/1646/95aa899d-d54c-4bbe-a45c-81e65c038248.jpg?RS=1500x1500&AR=0&SF=webp&QT=80"
+        },
+        {
+          "size": "100 ml",
+          "sku": "Sctbca-100",
+          "stock": 100,
+          "price": 1699,
+          "oldPrice": 2090,
+          "image": "https://www.koreanbeautykr.com/cdn/shop/files/skin1004-017977kn-1_1024x1024_b803f71c-753e-4477-82f0-246c5bed6c1b.webp?v=1743413802&width=1200"
+        }
+      ]
+    },
+    {
+      "title": "Centella Poremizing Fresh Ampoule",
+      "brand": "Skin1004",
+      "category": "Ampoule",
+      "mainCategory": "Skincare",
+      "productType": "Ampoule",
+      "size": "30 ml",
+      "sku": "Scpfa-30",
+      "oldPrice": 1299,
+      "offerPrice": 999,
+      "discountPct": 23,
+      "stock": 170,
+      "imageUrl": "https://lavishta.com/wp-content/uploads/2024/12/Skin1004_Madagascar_Centella_Poremizing_Fresh_Ampoule_30ml_image_6__30111.jpg",
+      "gallery": [
+        "https://lavishta.com/wp-content/uploads/2024/12/Skin1004_Madagascar_Centella_Poremizing_Fresh_Ampoule_30ml_image_6__30111.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A lightweight concentrated ampoule that delivers a high dose of potent actives to visibly improve skin tone and texture.",
+      "description": "Centella Poremizing Fresh Ampoule by Skin1004 — a ampoule curated for the modern skincare routine. A lightweight concentrated ampoule that delivers a high dose of potent actives to visibly improve skin tone and texture. Presented in a 30 ml size for consistent, everyday use.",
+      "benefits": [
+        "Concentrated actives",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "Apply a few drops after toner over the whole face, pressing gently into skin. Seal with a moisturizer.",
+      "ingredients": [
+        "Centella Asiatica Extract",
+        "Hyaluronic Acid",
+        "Niacinamide",
+        "Madecassoside",
+        "Glycerin"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Oil Control",
+        "Soothing"
+      ],
+      "faq": [
+        {
+          "q": "Is Centella Poremizing Fresh Ampoule authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Centella Poremizing Fresh Ampoule suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "30 ml",
+          "sku": "Scpfa-30",
+          "stock": 170,
+          "price": 999,
+          "oldPrice": 1299,
+          "image": "https://lavishta.com/wp-content/uploads/2024/12/Skin1004_Madagascar_Centella_Poremizing_Fresh_Ampoule_30ml_image_6__30111.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Centella Tea-Trica Relief Ampoule",
+      "brand": "Skin1004",
+      "category": "Ampoule",
+      "mainCategory": "Skincare",
+      "productType": "Ampoule",
+      "size": "30 ml",
+      "sku": "Scttra-30",
+      "oldPrice": 1200,
+      "offerPrice": 849,
+      "discountPct": 29,
+      "stock": 9,
+      "imageUrl": "https://unnieandco.fr/cdn/shop/files/221121_ReliefAmpoule.jpg?v=1736612787",
+      "gallery": [
+        "https://unnieandco.fr/cdn/shop/files/221121_ReliefAmpoule.jpg?v=1736612787"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A lightweight concentrated ampoule that delivers a high dose of potent actives to visibly improve skin tone and texture.",
+      "description": "Centella Tea-Trica Relief Ampoule by Skin1004 — a ampoule curated for the modern skincare routine. A lightweight concentrated ampoule that delivers a high dose of potent actives to visibly improve skin tone and texture. Presented in a 30 ml size for consistent, everyday use.",
+      "benefits": [
+        "Concentrated actives",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "Apply a few drops after toner over the whole face, pressing gently into skin. Seal with a moisturizer.",
+      "ingredients": [
+        "Centella Asiatica Extract",
+        "Hyaluronic Acid",
+        "Niacinamide",
+        "Madecassoside",
+        "Glycerin"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Soothing"
+      ],
+      "faq": [
+        {
+          "q": "Is Centella Tea-Trica Relief Ampoule authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Centella Tea-Trica Relief Ampoule suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "30 ml",
+          "sku": "Scttra-30",
+          "stock": 9,
+          "price": 849,
+          "oldPrice": 1200,
+          "image": "https://unnieandco.fr/cdn/shop/files/221121_ReliefAmpoule.jpg?v=1736612787"
+        }
+      ]
+    },
+    {
+      "title": "Glycolic Acid 7% Exfoliating Toner",
+      "brand": "The ordinary",
+      "category": "Toner",
+      "mainCategory": "Skincare",
+      "productType": "Toner",
+      "size": "240 ml",
+      "sku": "Togaet-240",
+      "oldPrice": 2650,
+      "offerPrice": 2250,
+      "discountPct": 15,
+      "stock": 7,
+      "imageUrl": "https://finelook.com/cdn/shop/files/51AQLkArUDL.jpg?v=1747820707",
+      "gallery": [
+        "https://finelook.com/cdn/shop/files/51AQLkArUDL.jpg?v=1747820707"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A refreshing toner that rebalances skin, preps it for the rest of your routine and improves the look of texture and pores.",
+      "description": "Glycolic Acid 7% Exfoliating Toner by The ordinary — a toner curated for the modern skincare routine. A refreshing toner that rebalances skin, preps it for the rest of your routine and improves the look of texture and pores. Presented in a 240 ml size for consistent, everyday use.",
+      "benefits": [
+        "Balance & prep",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "Soak a cotton pad and sweep across face after cleansing, or pat in with palms. Follow with serum and moisturizer.",
+      "ingredients": [
+        "Glycolic Acid 7%",
+        "Ginseng Root Extract",
+        "Allantoin",
+        "Amino Acids"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Brightening",
+        "Acne & Texture"
+      ],
+      "faq": [
+        {
+          "q": "Is Glycolic Acid 7% Exfoliating Toner authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Glycolic Acid 7% Exfoliating Toner suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "240 ml",
+          "sku": "Togaet-240",
+          "stock": 7,
+          "price": 2250,
+          "oldPrice": 2650,
+          "image": "https://finelook.com/cdn/shop/files/51AQLkArUDL.jpg?v=1747820707"
+        }
+      ]
+    },
+    {
+      "title": "Niacinamide 10%+Zinc1%",
+      "brand": "The ordinary",
+      "category": "Serum",
+      "mainCategory": "Skincare",
+      "productType": "Serum",
+      "size": "30 ml",
+      "sku": "Tonz-30",
+      "oldPrice": 1150,
+      "offerPrice": 999,
+      "discountPct": 13,
+      "stock": 67,
+      "imageUrl": "https://koreantrendyshop.com/wp-content/uploads/2024/03/The-Ordinary-Niacinamide-10-Zinc-1-30ml.jpg",
+      "gallery": [
+        "https://koreantrendyshop.com/wp-content/uploads/2024/03/The-Ordinary-Niacinamide-10-Zinc-1-30ml.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives.",
+      "description": "Niacinamide 10%+Zinc1% by The ordinary — a serum curated for the modern skincare routine. A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives. Presented in a 30 ml size for consistent, everyday use.",
+      "benefits": [
+        "Targeted treatment",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "After toning, dispense 2-3 drops and press gently into skin. Follow with moisturizer. Use in the morning or evening as directed.",
+      "ingredients": [
+        "Aqua (Water), Niacinamide, Pentylene Glycol, Zinc PCA, Dimethyl Isosorbide, Tamarindus Indica Seed Gum, Xanthan Gum, Isoceteth-20, Ethoxydiglycol, Phenoxyethanol, Chlorphenesin"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Brightening"
+      ],
+      "faq": [
+        {
+          "q": "Is Niacinamide 10%+Zinc1% authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Niacinamide 10%+Zinc1% suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "30 ml",
+          "sku": "Tonz-30",
+          "stock": 67,
+          "price": 999,
+          "oldPrice": 1150,
+          "image": "https://koreantrendyshop.com/wp-content/uploads/2024/03/The-Ordinary-Niacinamide-10-Zinc-1-30ml.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Dark Spot Correcting Glow Serum",
+      "brand": "Axis-y",
+      "category": "Serum",
+      "mainCategory": "Skincare",
+      "productType": "Serum",
+      "size": "5 ml",
+      "sku": "aydscgs-5",
+      "oldPrice": 1450,
+      "offerPrice": 1050,
+      "discountPct": 28,
+      "stock": 762,
+      "imageUrl": "https://kiokii.com/cdn/shop/files/axis-y-dark-spot-correcting-glow-serum-mini-5mlaxis-ykiokii-and-2353019.webp?v=1757433614",
+      "gallery": [
+        "https://kiokii.com/cdn/shop/files/axis-y-dark-spot-correcting-glow-serum-mini-5mlaxis-ykiokii-and-2353019.webp?v=1757433614",
+        "https://static-01.daraz.com.bd/p/5429918527edbea7550021f81fb3fb2a.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives.",
+      "description": "Dark Spot Correcting Glow Serum by Axis-y — a serum curated for the modern skincare routine. A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives. Presented in a 5 ml size for consistent, everyday use.",
+      "benefits": [
+        "Targeted treatment",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "After toning, dispense 2-3 drops and press gently into skin. Follow with moisturizer. Use in the morning or evening as directed.",
+      "ingredients": [
+        "Niacinamide",
+        "Vitamin C (Ascorbic Acid)",
+        "Zinc PCA",
+        "Hyaluronic Acid",
+        "Glycerin"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Brightening"
+      ],
+      "faq": [
+        {
+          "q": "Is Dark Spot Correcting Glow Serum authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Dark Spot Correcting Glow Serum suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "5 ml",
+          "sku": "aydscgs-5",
+          "stock": 753,
+          "price": 1050,
+          "oldPrice": 1450,
+          "image": "https://kiokii.com/cdn/shop/files/axis-y-dark-spot-correcting-glow-serum-mini-5mlaxis-ykiokii-and-2353019.webp?v=1757433614"
+        },
+        {
+          "size": "50 ml",
+          "sku": "aydscgs-50",
+          "stock": 9,
+          "price": 1050,
+          "oldPrice": 1450,
+          "image": "https://static-01.daraz.com.bd/p/5429918527edbea7550021f81fb3fb2a.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Dark Spot Correcting Glow Toner",
+      "brand": "Axis-y",
+      "category": "Toner",
+      "mainCategory": "Skincare",
+      "productType": "Toner",
+      "size": "125 ml",
+      "sku": "Aydscgt-125",
+      "oldPrice": 1700,
+      "offerPrice": 1399,
+      "discountPct": 18,
+      "stock": 250,
+      "imageUrl": "https://koreanhomee.com/wp-content/uploads/2024/08/IMG_8473.jpeg",
+      "gallery": [
+        "https://koreanhomee.com/wp-content/uploads/2024/08/IMG_8473.jpeg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A refreshing toner that rebalances skin, preps it for the rest of your routine and improves the look of texture and pores.",
+      "description": "Dark Spot Correcting Glow Toner by Axis-y — a toner curated for the modern skincare routine. A refreshing toner that rebalances skin, preps it for the rest of your routine and improves the look of texture and pores. Presented in a 125 ml size for consistent, everyday use.",
+      "benefits": [
+        "Balance & prep",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "Soak a cotton pad and sweep across face after cleansing, or pat in with palms. Follow with serum and moisturizer.",
+      "ingredients": [
+        "Niacinamide",
+        "Vitamin C (Ascorbic Acid)",
+        "Zinc PCA",
+        "Hyaluronic Acid",
+        "Glycerin"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Brightening"
+      ],
+      "faq": [
+        {
+          "q": "Is Dark Spot Correcting Glow Toner authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Dark Spot Correcting Glow Toner suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "125 ml",
+          "sku": "Aydscgt-125",
+          "stock": 250,
+          "price": 1399,
+          "oldPrice": 1700,
+          "image": "https://koreanhomee.com/wp-content/uploads/2024/08/IMG_8473.jpeg"
+        }
+      ]
+    },
+    {
+      "title": "Dark Spot Correcting Glow Cream",
+      "brand": "Axis-y",
+      "category": "Cream",
+      "mainCategory": "Skincare",
+      "productType": "Cream",
+      "size": "50 ml",
+      "sku": "Aydscgc-50",
+      "oldPrice": 1417,
+      "offerPrice": 1090,
+      "discountPct": 23,
+      "stock": 80,
+      "imageUrl": "https://www.axis-y.com/cdn/shop/files/DarkSpotCorrectingGlowCream_1.png?crop=center&height=1500&v=1758523830&width=1200",
+      "gallery": [
+        "https://www.axis-y.com/cdn/shop/files/DarkSpotCorrectingGlowCream_1.png?crop=center&height=1500&v=1758523830&width=1200"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion.",
+      "description": "Dark Spot Correcting Glow Cream by Axis-y — a cream curated for the modern skincare routine. A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion. Presented in a 50 ml size for consistent, everyday use.",
+      "benefits": [
+        "Deep hydration",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "After serum, apply an even layer over the face and neck, gently pressing into skin until fully absorbed. Use morning and evening as the final step.",
+      "ingredients": [
+        "Niacinamide",
+        "Vitamin C (Ascorbic Acid)",
+        "Zinc PCA",
+        "Hyaluronic Acid",
+        "Glycerin"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Brightening"
+      ],
+      "faq": [
+        {
+          "q": "Is Dark Spot Correcting Glow Cream authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Dark Spot Correcting Glow Cream suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "50 ml",
+          "sku": "Aydscgc-50",
+          "stock": 80,
+          "price": 1090,
+          "oldPrice": 1417,
+          "image": "https://www.axis-y.com/cdn/shop/files/DarkSpotCorrectingGlowCream_1.png?crop=center&height=1500&v=1758523830&width=1200"
+        }
+      ]
+    },
+    {
+      "title": "Glutathione Brightening Tone Up Cream",
+      "brand": "Beaute",
+      "category": "Cream",
+      "mainCategory": "Skincare",
+      "productType": "Cream",
+      "size": "45 ml",
+      "sku": "Bgbtuc-45",
+      "oldPrice": 1100,
+      "offerPrice": 700,
+      "discountPct": 36,
+      "stock": 270,
+      "imageUrl": "https://glamournupur.com/wp-content/uploads/2025/11/Beaute-Glutathione-Brightening-Tone-Up-Cream-45ml.jpg",
+      "gallery": [
+        "https://glamournupur.com/wp-content/uploads/2025/11/Beaute-Glutathione-Brightening-Tone-Up-Cream-45ml.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion.",
+      "description": "Glutathione Brightening Tone Up Cream by Beaute — a cream curated for the modern skincare routine. A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion. Presented in a 45 ml size for consistent, everyday use.",
+      "benefits": [
+        "Deep hydration",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "Glutathione মেলানিন প্রোডাকশন রুট লেভেলে ইনহিবিট করে ত্বককে ব্রাইট ও ইভেন-টোনড করতে সহায়তা করে Niacinamide মেলানিন ট্রান্সফার ব্লক করে ও সেবাম রেগুলেট করে, পোরস রিফাইন করতে সহায়তা করে Broussonetia Kazinoki ও Morus Alba (মালবেরি রুট) এক্সট্র্যাক্ট ন্যাচারাল লুমিনাইজিং এজেন্ট হিসেবে কাজ করে ডিসকালারেশন কমাতে সহায়তা করে Centella Asiatica Extract ও Green Tea (Camellia Sinensis) এক্সট্র্যাক্ট ত্বককে সুদ্ধ করে ও অ্যান্টিঅক্সিডেন্ট প্রোটেকশন দেয় Sodium Hyaluronate ও Ceramide (NP, AP, EOP) ত্বকে হাইড্রেশন যোগ করে ও ময়েশ্চার ব্যারিয়ার সাপোর্ট করে ইনস্ট্যান্ট টোন-আপ ইফেক্ট দেয়, কোনো হোয়াইট কাস্ট বা কেকিং ছাড়াই মেলাসমা, ফ্রিকেলস ও পিগমেন্টেশন কেয়ারে সহায়তা করে"
+      ],
+      "howToUse": "After serum, apply an even layer over the face and neck, gently pressing into skin until fully absorbed. Use morning and evening as the final step.",
+      "ingredients": [
+        "Titanium Dioxide",
+        "Niacinamide",
+        "Arbutin",
+        "Glutathione",
+        "Glycerin"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Brightening"
+      ],
+      "faq": [
+        {
+          "q": "Is Glutathione Brightening Tone Up Cream authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Glutathione Brightening Tone Up Cream suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "45 ml",
+          "sku": "Bgbtuc-45",
+          "stock": 270,
+          "price": 700,
+          "oldPrice": 1100,
+          "image": "https://glamournupur.com/wp-content/uploads/2025/11/Beaute-Glutathione-Brightening-Tone-Up-Cream-45ml.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Aqua Sun Gel",
+      "brand": "Missha",
+      "category": "Sunscreen",
+      "mainCategory": "Sun Care",
+      "productType": "Sunscreen",
+      "size": "50 ml",
+      "sku": "Masg-50",
+      "oldPrice": 1200,
+      "offerPrice": 899,
+      "discountPct": 25,
+      "stock": 210,
+      "imageUrl": "https://static-01.daraz.com.bd/p/e14b57cb84a259b8b6906cf29e236419.jpg",
+      "gallery": [
+        "https://static-01.daraz.com.bd/p/e14b57cb84a259b8b6906cf29e236419.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives.",
+      "description": "Aqua Sun Gel by Missha — a sunscreen curated for the modern skincare routine. A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives. Presented in a 50 ml size for consistent, everyday use.",
+      "benefits": [
+        "Targeted treatment",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "SPF50+/PA++++ দিয়ে হাই-লেভেল ব্রড-স্পেকট্রাম UVA ও UVB প্রোটেকশন দেয় Aquaporin Active Formula ত্বকে হাইড্রেশন লক-ইন করতে সহায়তা করে Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid ও Glycerin ত্বককে ডিপলি হাইড্রেট করে Beta-Glucan ও Tocopherol অ্যান্টিঅক্সিডেন্ট প্রোটেকশন দেয় জেল টেক্সচার কোনো হোয়াইট কাস্ট ছাড়াই দ্রুত অ্যাবজর্ব হয়ে যায় কুলিং ইফেক্ট প্রদান করে, নন-গ্রিজি ও নন-স্টিকি ফিনিশ ওয়াটার ও সোয়েট-প্রুফ ফর্মুলা"
+      ],
+      "howToUse": "After toning, dispense 2-3 drops and press gently into skin. Follow with moisturizer. Use in the morning or evening as directed.",
+      "ingredients": [
+        "Zinc Oxide",
+        "Ethylhexyl Triazone",
+        "Niacinamide",
+        "Rice Extract",
+        "Glycerin"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Sun Protection"
+      ],
+      "faq": [
+        {
+          "q": "Is Aqua Sun Gel authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Aqua Sun Gel suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "50 ml",
+          "sku": "Masg-50",
+          "stock": 210,
+          "price": 899,
+          "oldPrice": 1200,
+          "image": "https://static-01.daraz.com.bd/p/e14b57cb84a259b8b6906cf29e236419.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Soft Finish Sun milk",
+      "brand": "Missha",
+      "category": "Sunscreen",
+      "mainCategory": "Sun Care",
+      "productType": "Sunscreen",
+      "size": "70 ml",
+      "sku": "Msfsm-70",
+      "oldPrice": 1400,
+      "offerPrice": 1099,
+      "discountPct": 22,
+      "stock": 112,
+      "imageUrl": "https://fairskincarebd.com/wp-content/uploads/2020/01/Missha-Soft-Finish-Sun-Milk-SPF50_2.jpg",
+      "gallery": [
+        "https://fairskincarebd.com/wp-content/uploads/2020/01/Missha-Soft-Finish-Sun-Milk-SPF50_2.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives.",
+      "description": "Soft Finish Sun milk by Missha — a sunscreen curated for the modern skincare routine. A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives. Presented in a 70 ml size for consistent, everyday use.",
+      "benefits": [
+        "Targeted treatment",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "SPF50+ PA+++ দিয়ে হাই-লেভেল UVA ও UVB প্রোটেকশন দেয় Double Layer UV Blocking System পানি ও ঘাম-প্রুফ, দীর্ঘস্থায়ী প্রোটেকশন নিশ্চিত করে Silky Porous Powder লাইটওয়েট, স্মুথ ও কমফোর্টেবল অ্যাপ্লিকেশন দেয়, একাধিকবার লেয়ার করলেও Natural Barrier Complex ও Thanaka এক্সট্র্যাক্ট এনভায়রনমেন্টাল স্ট্রেসর থেকে প্রোটেক্ট করে ও অতিরিক্ত হাইড্রেশন প্রদান করে মাইল্ড স্কিন টোন-কারেক্টিং ইফেক্ট দেয়, ত্বক রেডিয়েন্ট ও ফ্রেশ দেখায় Aloe Barbadensis Leaf Extract ও Tocopheryl Acetate ত্বককে সুদ্ধ ও অ্যান্টিঅক্সিডেন্ট প্রোটেকশন দেয় নন-গ্রিজি, নন-স্টিকি ফিনিশ"
+      ],
+      "howToUse": "After toning, dispense 2-3 drops and press gently into skin. Follow with moisturizer. Use in the morning or evening as directed.",
+      "ingredients": [
+        "Zinc Oxide",
+        "Ethylhexyl Triazone",
+        "Niacinamide",
+        "Rice Extract",
+        "Glycerin"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Sun Protection"
+      ],
+      "faq": [
+        {
+          "q": "Is Soft Finish Sun milk authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Soft Finish Sun milk suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "70 ml",
+          "sku": "Msfsm-70",
+          "stock": 112,
+          "price": 1099,
+          "oldPrice": 1400,
+          "image": "https://fairskincarebd.com/wp-content/uploads/2020/01/Missha-Soft-Finish-Sun-Milk-SPF50_2.jpg"
+        }
+      ]
+    },
+    {
+      "title": "All In One Black Snail Foam Cleanser",
+      "brand": "Dabo",
+      "category": "Cleanser",
+      "mainCategory": "Skincare",
+      "productType": "Cleanser",
+      "size": "120 ml",
+      "sku": "Daiobsrc-120",
+      "oldPrice": 950,
+      "offerPrice": 760,
+      "discountPct": 20,
+      "stock": 55,
+      "imageUrl": "https://majesticabd.com/wp-content/uploads/2026/07/file_00000000aeec71fdaa1e206852c34388-768x768.png",
+      "gallery": [
+        "https://majesticabd.com/wp-content/uploads/2026/07/file_00000000aeec71fdaa1e206852c34388-768x768.png"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A gentle yet effective cleanser that lifts away impurities, excess sebum and makeup residue while leaving skin soft, comfortable and balanced.",
+      "description": "All In One Black Snail Foam Cleanser by Dabo — a cleanser curated for the modern skincare routine. A gentle yet effective cleanser that lifts away impurities, excess sebum and makeup residue while leaving skin soft, comfortable and balanced. Presented in a 120 ml size for consistent, everyday use.",
+      "benefits": [
+        "Deep cleansing",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "Snail Secretion Filtrate ত্বককে হাইড্রেট করতে, সুদ্ধ করতে ও রিপেয়ার করতে সহায়তা করে এক্সেস অয়েল, মেকআপ, ময়লা ও ইমপিউরিটিজ জেন্টলি কিন্তু কার্যকরভাবে দূর করে ত্বকের ন্যাচারাল ময়েশ্চার ব্যালেন্স স্ট্রিপ না করেই ক্লিঞ্জ করে ক্রিমি, সফট ল্যাদারিং ফোম টেক্সচার ডেইলি ইউজের জন্য উপযোগী ও সেনসিটিভ স্কিনের জন্যও যথেষ্ট জেন্টল স্কিনকেয়ার রুটিনের প্রথম বা দ্বিতীয় ধাপ হিসেবে ব্যবহারযোগ্য"
+      ],
+      "howToUse": "Massage a small amount onto damp skin in gentle circular motions, then rinse thoroughly with lukewarm water. Use morning and evening.",
+      "ingredients": [
+        "Snail Secretion Filtrate 96%",
+        "Betaine",
+        "Sodium Hyaluronate",
+        "Arginine",
+        "Allantoin",
+        "Panthenol"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Hydration"
+      ],
+      "faq": [
+        {
+          "q": "Is All In One Black Snail Foam Cleanser authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is All In One Black Snail Foam Cleanser suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "120 ml",
+          "sku": "Daiobsrc-120",
+          "stock": 55,
+          "price": 760,
+          "oldPrice": 950,
+          "image": "https://majesticabd.com/wp-content/uploads/2026/07/file_00000000aeec71fdaa1e206852c34388-768x768.png"
+        }
+      ]
+    },
+    {
+      "title": "All In One Black Snail Repair Cream",
+      "brand": "Dabo",
+      "category": "Cream",
+      "mainCategory": "Skincare",
+      "productType": "Cream",
+      "size": "50 ml",
+      "sku": "Daiobsrc-50",
+      "oldPrice": 1200,
+      "offerPrice": 640,
+      "discountPct": 47,
+      "stock": 180,
+      "imageUrl": "https://www.ogerio.com/wp-content/uploads/2025/05/Dabo-All-in-One-Black-Snail-Repair-Cream-50-ml-5.jpg",
+      "gallery": [
+        "https://www.ogerio.com/wp-content/uploads/2025/05/Dabo-All-in-One-Black-Snail-Repair-Cream-50-ml-5.jpg",
+        "https://www.ogerio.com/wp-content/uploads/2024/08/Dabo-All-in-One-Black-Snail-Repair-Cream-100g.png"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion.",
+      "description": "All In One Black Snail Repair Cream by Dabo — a cream curated for the modern skincare routine. A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion. Presented in a 50 ml size for consistent, everyday use.",
+      "benefits": [
+        "Deep hydration",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "After serum, apply an even layer over the face and neck, gently pressing into skin until fully absorbed. Use morning and evening as the final step.",
+      "ingredients": [
+        "Snail Secretion Filtrate 96%",
+        "Betaine",
+        "Sodium Hyaluronate",
+        "Arginine",
+        "Allantoin",
+        "Panthenol"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Hydration"
+      ],
+      "faq": [
+        {
+          "q": "Is All In One Black Snail Repair Cream authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is All In One Black Snail Repair Cream suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "50 ml",
+          "sku": "Daiobsrc-50",
+          "stock": 75,
+          "price": 640,
+          "oldPrice": 1200,
+          "image": "https://www.ogerio.com/wp-content/uploads/2025/05/Dabo-All-in-One-Black-Snail-Repair-Cream-50-ml-5.jpg"
+        },
+        {
+          "size": "100 gm",
+          "sku": "Daiobsrc-100",
+          "stock": 105,
+          "price": 640,
+          "oldPrice": 1200,
+          "image": "https://www.ogerio.com/wp-content/uploads/2024/08/Dabo-All-in-One-Black-Snail-Repair-Cream-100g.png"
+        }
+      ]
+    },
+    {
+      "title": "All In One Snail 96 Mucin Essence",
+      "brand": "Dabo",
+      "category": "Essence",
+      "mainCategory": "Skincare",
+      "productType": "Essence",
+      "size": "100 ml",
+      "sku": "Daiosme-100",
+      "oldPrice": 1400,
+      "offerPrice": 1199,
+      "discountPct": 14,
+      "stock": 120,
+      "imageUrl": "https://tekka.com.bd/uploads/all/WWAxg1c9eGLIsKWkQlC9RtqZ0qSN2sGyb7nodQku.webp",
+      "gallery": [
+        "https://tekka.com.bd/uploads/all/WWAxg1c9eGLIsKWkQlC9RtqZ0qSN2sGyb7nodQku.webp"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A lightweight hydrating essence that layers moisture into skin and preps it to absorb the rest of your routine.",
+      "description": "All In One Snail 96 Mucin Essence by Dabo — a essence curated for the modern skincare routine. A lightweight hydrating essence that layers moisture into skin and preps it to absorb the rest of your routine. Presented in a 100 ml size for consistent, everyday use.",
+      "benefits": [
+        "Hydration boost",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "Snail Mucin ও Sodium Hyaluronate ত্বকে লং-লাস্টিং ডিপ ময়েশ্চার প্রদান করে Snail Mucin স্কিন রিজেনারেশনে সহায়তা করে, স্কার ও ব্লেমিশের অ্যাপিয়ারেন্স কমাতে সহায়তা করে Panthenol ও Allantoin ইচি ও সেনসিটিভ ত্বককে ক্যাম ও সুদ্ধ করতে সহায়তা করে লাইট, ময়েশ্চারাইজিং টেক্সচার, কোনো স্টিকি ফিল ছাড়াই \"লো ইরিটেশন\" টেস্ট পাস করা ফর্মুলা"
+      ],
+      "howToUse": "Pat 2–3 drops onto skin right after toning, then layer your serum and moisturizer on top.",
+      "ingredients": [
+        "Snail Secretion Filtrate 96%",
+        "Betaine",
+        "Sodium Hyaluronate",
+        "Arginine",
+        "Panthenol"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Hydration"
+      ],
+      "faq": [
+        {
+          "q": "Is All In One Snail 96 Mucin Essence authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is All In One Snail 96 Mucin Essence suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "100 ml",
+          "sku": "Daiosme-100",
+          "stock": 120,
+          "price": 1199,
+          "oldPrice": 1400,
+          "image": "https://tekka.com.bd/uploads/all/WWAxg1c9eGLIsKWkQlC9RtqZ0qSN2sGyb7nodQku.webp"
+        }
+      ]
+    },
+    {
+      "title": "Black Snail Retinal A+ Solution Ampoule",
+      "brand": "Dabo",
+      "category": "Ampoule",
+      "mainCategory": "Skincare",
+      "productType": "Ampoule",
+      "size": "50 ml",
+      "sku": "Dbsrasa-50",
+      "oldPrice": 1350,
+      "offerPrice": 980,
+      "discountPct": 27,
+      "stock": 80,
+      "imageUrl": "https://kcbazar.com/wp-content/uploads/2024/06/Dabo-Black-Snail-Retinal-A-Solution-Ampoule-80-ml-2-2.jpg",
+      "gallery": [
+        "https://kcbazar.com/wp-content/uploads/2024/06/Dabo-Black-Snail-Retinal-A-Solution-Ampoule-80-ml-2-2.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A lightweight concentrated ampoule that delivers a high dose of potent actives to visibly improve skin tone and texture.",
+      "description": "Black Snail Retinal A+ Solution Ampoule by Dabo — a ampoule curated for the modern skincare routine. A lightweight concentrated ampoule that delivers a high dose of potent actives to visibly improve skin tone and texture. Presented in a 50 ml size for consistent, everyday use.",
+      "benefits": [
+        "Concentrated actives",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "Black Snail Secretion Filtrate ত্বককে ময়েশ্চারাইজড ও কন্ডিশনড রাখতে সাহায্য করে Retinal A+ ত্বকের ফাইন লাইন ও বয়সের দৃশ্যমান লক্ষণের কেয়ারে সহায়তা করে ত্বকের টেক্সচার আরও মসৃণ দেখাতে সাহায্য করে ত্বককে নরম ও হাইড্রেটেড রাখতে সহায়তা করে নিস্তেজ দেখানো ত্বককে আরও স্বাস্থ্যকর ও উজ্জ্বল দেখাতে সাহায্য করে ত্বকের সামগ্রিক smoothness ও even-looking appearance বজায় রাখতে সহায়তা করে রাতের স্কিনকেয়ার রুটিনে serum বা ampoule ধাপে ব্যবহার করা যায় ৫০ ml সাইজ হওয়ায় নিয়মিত ব্যবহারের জন্য সুবিধাজনক"
+      ],
+      "howToUse": "Apply a few drops after toner over the whole face, pressing gently into skin. Seal with a moisturizer.",
+      "ingredients": [
+        "Snail Secretion Filtrate 96%",
+        "Betaine",
+        "Sodium Hyaluronate",
+        "Arginine",
+        "Allantoin",
+        "Panthenol"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Anti-Aging"
+      ],
+      "faq": [
+        {
+          "q": "Is Black Snail Retinal A+ Solution Ampoule authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Black Snail Retinal A+ Solution Ampoule suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "50 ml",
+          "sku": "Dbsrasa-50",
+          "stock": 80,
+          "price": 980,
+          "oldPrice": 1350,
+          "image": "https://kcbazar.com/wp-content/uploads/2024/06/Dabo-Black-Snail-Retinal-A-Solution-Ampoule-80-ml-2-2.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Green Tomato Poremide Solution Ampoule",
+      "brand": "Dabo",
+      "category": "Ampoule",
+      "mainCategory": "Skincare",
+      "productType": "Ampoule",
+      "size": "80 ml",
+      "sku": "Dgtpsa-80",
+      "oldPrice": 1500,
+      "offerPrice": 1099,
+      "discountPct": 27,
+      "stock": 80,
+      "imageUrl": "https://kcbazar.com/wp-content/uploads/2024/06/Dabo-Green-Tomato-Poremide-Solution-Ampoule-80-ml-2.jpg",
+      "gallery": [
+        "https://kcbazar.com/wp-content/uploads/2024/06/Dabo-Green-Tomato-Poremide-Solution-Ampoule-80-ml-2.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A lightweight concentrated ampoule that delivers a high dose of potent actives to visibly improve skin tone and texture.",
+      "description": "Green Tomato Poremide Solution Ampoule by Dabo — a ampoule curated for the modern skincare routine. A lightweight concentrated ampoule that delivers a high dose of potent actives to visibly improve skin tone and texture. Presented in a 80 ml size for consistent, everyday use.",
+      "benefits": [
+        "Concentrated actives",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "Green Tomato Extract ত্বকের pore care-এ সাহায্য করে দৃশ্যমান pores-এর appearance কম দেখাতে সহায়তা করে অতিরিক্ত sebum ও oil balance-এর যত্নে সাহায্য করে Niacinamide ত্বককে উজ্জ্বল ও আরও even-looking দেখাতে সহায়তা করে অসমান skin texture মসৃণ দেখাতে সাহায্য করে ত্বককে পরিষ্কার, fresh ও refined দেখাতে সহায়তা করে Oily ও Combination skin-এর দৈনন্দিন স্কিনকেয়ার রুটিনে ব্যবহার করা যায় ত্বকের সামগ্রিক smoothness বজায় রাখতে সহায়তা করে ৮০ ml সাইজ হওয়ায় নিয়মিত ব্যবহারের জন্য দীর্ঘদিন ব্যবহার করা যায়"
+      ],
+      "howToUse": "Apply a few drops after toner over the whole face, pressing gently into skin. Seal with a moisturizer.",
+      "ingredients": [
+        "Green Tomato Extract, Niacinamide এবং অন্যান্য moisturizing ও skin-conditioning ingredients রয়েছে। সম্পূর্ণ ingredient list ব্যাচ বা বাজারভেদে পরিবর্তিত হতে পারে, তাই সঠিক ও সর্বশেষ উপাদান তালিকার জন্য পণ্যের প্যাকেজিং দেখে ব্যবহার করা ভালো।"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Oil Control"
+      ],
+      "faq": [
+        {
+          "q": "Is Green Tomato Poremide Solution Ampoule authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Green Tomato Poremide Solution Ampoule suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "80 ml",
+          "sku": "Dgtpsa-80",
+          "stock": 80,
+          "price": 1099,
+          "oldPrice": 1500,
+          "image": "https://kcbazar.com/wp-content/uploads/2024/06/Dabo-Green-Tomato-Poremide-Solution-Ampoule-80-ml-2.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Hyaluronic8 Quenching Solution Ampoule",
+      "brand": "Dabo",
+      "category": "Ampoule",
+      "mainCategory": "Skincare",
+      "productType": "Ampoule",
+      "size": "80 ml",
+      "sku": "Dhqsa-80",
+      "oldPrice": 1500,
+      "offerPrice": 1099,
+      "discountPct": 27,
+      "stock": 80,
+      "imageUrl": "https://d3l8w3klt7yga2.cloudfront.net/products/1770974532522",
+      "gallery": [
+        "https://d3l8w3klt7yga2.cloudfront.net/products/1770974532522"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A lightweight concentrated ampoule that delivers a high dose of potent actives to visibly improve skin tone and texture.",
+      "description": "Hyaluronic8 Quenching Solution Ampoule by Dabo — a ampoule curated for the modern skincare routine. A lightweight concentrated ampoule that delivers a high dose of potent actives to visibly improve skin tone and texture. Presented in a 80 ml size for consistent, everyday use.",
+      "benefits": [
+        "Concentrated actives",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "Apply a few drops after toner over the whole face, pressing gently into skin. Seal with a moisturizer.",
+      "ingredients": [
+        "Hyaluronic Acid-based moisturizing ingredients রয়েছে। তবে exact product-এর সম্পূর্ণ ও যাচাইকৃত ingredient list নির্ভরযোগ্যভাবে নিশ্চিত না হলে অনুমান করে সম্পূর্ণ ingredient list দেওয়া উচিত নয়। সঠিক উপাদান তালিকার জন্য পণ্যের অফিসিয়াল প্যাকেজিং বা প্রস্তুতকারকের তথ্য অনুসরণ করুন।"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Hydration"
+      ],
+      "faq": [
+        {
+          "q": "Is Hyaluronic8 Quenching Solution Ampoule authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Hyaluronic8 Quenching Solution Ampoule suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "80 ml",
+          "sku": "Dhqsa-80",
+          "stock": 80,
+          "price": 1099,
+          "oldPrice": 1500,
+          "image": "https://d3l8w3klt7yga2.cloudfront.net/products/1770974532522"
+        }
+      ]
+    },
+    {
+      "title": "Green Tea Vital-Rich Healthy Foam Cleanser",
+      "brand": "Dabo",
+      "category": "Cleanser",
+      "mainCategory": "Skincare",
+      "productType": "Cleanser",
+      "size": "100 ml",
+      "sku": "Dgtvrhfc-100",
+      "oldPrice": 799,
+      "offerPrice": 530,
+      "discountPct": 34,
+      "stock": 120,
+      "imageUrl": "https://back-office.cloudshopbd.com/productImages/uaefk1778753028.png",
+      "gallery": [
+        "https://back-office.cloudshopbd.com/productImages/uaefk1778753028.png"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A gentle yet effective cleanser that lifts away impurities, excess sebum and makeup residue while leaving skin soft, comfortable and balanced.",
+      "description": "Green Tea Vital-Rich Healthy Foam Cleanser by Dabo — a cleanser curated for the modern skincare routine. A gentle yet effective cleanser that lifts away impurities, excess sebum and makeup residue while leaving skin soft, comfortable and balanced. Presented in a 100 ml size for consistent, everyday use.",
+      "benefits": [
+        "Deep cleansing",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "Massage a small amount onto damp skin in gentle circular motions, then rinse thoroughly with lukewarm water. Use morning and evening.",
+      "ingredients": [
+        "Green Tea Extract",
+        "Panthenol",
+        "Centella Asiatica",
+        "Tea Tree Leaf Extract"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Soothing"
+      ],
+      "faq": [
+        {
+          "q": "Is Green Tea Vital-Rich Healthy Foam Cleanser authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Green Tea Vital-Rich Healthy Foam Cleanser suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "100 ml",
+          "sku": "Dgtvrhfc-100",
+          "stock": 120,
+          "price": 530,
+          "oldPrice": 799,
+          "image": "https://back-office.cloudshopbd.com/productImages/uaefk1778753028.png"
+        }
+      ]
+    },
+    {
+      "title": "Vita Radian-C 3X Vitamin Aux Brightening Eye Cream",
+      "brand": "Dabo",
+      "category": "Eye Cream",
+      "mainCategory": "Skincare",
+      "productType": "Eye Cream",
+      "size": "40 ml",
+      "sku": "Dvrcvabec-40",
+      "oldPrice": 1100,
+      "offerPrice": 850,
+      "discountPct": 23,
+      "stock": 140,
+      "imageUrl": "https://kcbazar.com/wp-content/uploads/2025/01/Dabo-Vita-Radian-C-Biome-3X-Vitamin-Aux-Super-Collagen-Brightening-Eye-Cream-40-ml.jpg",
+      "gallery": [
+        "https://kcbazar.com/wp-content/uploads/2025/01/Dabo-Vita-Radian-C-Biome-3X-Vitamin-Aux-Super-Collagen-Brightening-Eye-Cream-40-ml.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion.",
+      "description": "Vita Radian-C 3X Vitamin Aux Brightening Eye Cream by Dabo — a eye cream curated for the modern skincare routine. A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion. Presented in a 40 ml size for consistent, everyday use.",
+      "benefits": [
+        "Deep hydration",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "After serum, apply an even layer over the face and neck, gently pressing into skin until fully absorbed. Use morning and evening as the final step.",
+      "ingredients": [
+        "Niacinamide",
+        "Vitamin C (Ascorbic Acid)",
+        "Zinc PCA",
+        "Hyaluronic Acid",
+        "Glycerin"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Brightening"
+      ],
+      "faq": [
+        {
+          "q": "Is Vita Radian-C 3X Vitamin Aux Brightening Eye Cream authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Vita Radian-C 3X Vitamin Aux Brightening Eye Cream suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "40 ml",
+          "sku": "Dvrcvabec-40",
+          "stock": 140,
+          "price": 850,
+          "oldPrice": 1100,
+          "image": "https://kcbazar.com/wp-content/uploads/2025/01/Dabo-Vita-Radian-C-Biome-3X-Vitamin-Aux-Super-Collagen-Brightening-Eye-Cream-40-ml.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Speed Whitening Ex Tone-Up Cream",
+      "brand": "Dabo",
+      "category": "Cream",
+      "mainCategory": "Skincare",
+      "productType": "Cream",
+      "size": "50 ml",
+      "sku": "Dswetuc-50",
+      "oldPrice": 1300,
+      "offerPrice": 949,
+      "discountPct": 27,
+      "stock": 35,
+      "imageUrl": "https://bk.shajgoj.com/storage/2022/06/DABO-Speed-Whitening-Ex-Tone-Up-Cream-4.jpg",
+      "gallery": [
+        "https://bk.shajgoj.com/storage/2022/06/DABO-Speed-Whitening-Ex-Tone-Up-Cream-4.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion.",
+      "description": "Speed Whitening Ex Tone-Up Cream by Dabo — a cream curated for the modern skincare routine. A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion. Presented in a 50 ml size for consistent, everyday use.",
+      "benefits": [
+        "Deep hydration",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "Cleanser দিয়ে মুখ পরিষ্কার করে toner ব্যবহার করলে toner-এর পর প্রয়োজনমতো cream নিন। মুখ ও গলায় সমানভাবে লাগিয়ে আলতো হাতে ছড়িয়ে দিন এবং প্রয়োজনে হালকা pat করে blend করুন। Tone-up effect যেন অসমান না দেখায়, সেজন্য hairline ও jawline-এর কাছেও ভালোভাবে blend করুন। এটি দিনের বেলা ব্যবহার করা যায় এবং makeup-এর আগে base হিসেবেও ব্যবহার করা যেতে পারে। পণ্যটির SPF47 PA+++ থাকলেও দীর্ঘক্ষণ বাইরে থাকলে পর্যাপ্ত broad-spectrum sunscreen ব্যবহার করা ভালো।",
+      "ingredients": [
+        "Water, Ethylhexyl Methoxycinnamate, Butylene Glycol, Titanium Dioxide, Ethylhexyl Salicylate, Glycerin, Dimethicone, 4-Methylbenzylidene Camphor, Methyl Methacrylate Crosspolymer, Butyl Methoxydibenzoylmethane, Niacinamide, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Silica, Isohexadecane, 1,2-Hexanediol, Caprylyl Glycol, Sodium Polyacrylate, Cyclopentasiloxane, Polysorbate 80, Betaine, Tranexamic Acid, Panthenol, Hydrolyzed Collagen, Ethyl Ascorbyl Ether, Arbutin, Allantoin, Glutathione, Adenosine, Dimethiconol, Disodium EDTA, Centella Asiatica Extract, Sodium Hyaluronate, Leontopodium Alpinum Flower Extract, Melaleuca Alternifolia (Tea Tree) Extract, Fragrance, Limonene, Alpha-Isomethyl Ionone, Hydroxycitronellal, Benzyl Salicylate, Butylphenyl Methylpropional, Linalool."
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Brightening"
+      ],
+      "faq": [
+        {
+          "q": "Is Speed Whitening Ex Tone-Up Cream authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Speed Whitening Ex Tone-Up Cream suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "50 ml",
+          "sku": "Dswetuc-50",
+          "stock": 35,
+          "price": 949,
+          "oldPrice": 1300,
+          "image": "https://bk.shajgoj.com/storage/2022/06/DABO-Speed-Whitening-Ex-Tone-Up-Cream-4.jpg"
+        }
+      ]
+    },
+    {
+      "title": "DABO - Speed Whitening Ex Cream",
+      "brand": "Dabo",
+      "category": "Cream",
+      "mainCategory": "Skincare",
+      "productType": "Cream",
+      "size": "50 ml",
+      "sku": "Dswec-50",
+      "oldPrice": 1400,
+      "offerPrice": 1200,
+      "discountPct": 14,
+      "stock": 40,
+      "imageUrl": "https://kcbazar.com/wp-content/uploads/2023/10/Dabo-Speed-Whitening-Ex-Cream-50-ml-5.jpg",
+      "gallery": [
+        "https://kcbazar.com/wp-content/uploads/2023/10/Dabo-Speed-Whitening-Ex-Cream-50-ml-5.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion.",
+      "description": "DABO - Speed Whitening Ex Cream by Dabo — a cream curated for the modern skincare routine. A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion. Presented in a 50 ml size for consistent, everyday use.",
+      "benefits": [
+        "Deep hydration",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "After serum, apply an even layer over the face and neck, gently pressing into skin until fully absorbed. Use morning and evening as the final step.",
+      "ingredients": [
+        "Water, Butylene Glycol, Cetyl Ethylhexanoate, Niacinamide, Ammonium Acryloyldimethyltaurate/VP Copolymer, Dimethicone, Cetearyl Olivate, Sorbitan Olivate, Cetearyl Alcohol, Carbomer, Triethanolamine, Betaine, Methyl Methacrylate Crosspolymer, Tranexamic Acid, Panthenol, Hydrolyzed Collagen, Ethyl Ascorbyl Ether, Arbutin, Allantoin, Glutathione, Adenosine, t-Butyl Alcohol, Disodium EDTA, 1,2-Hexanediol, Centella Asiatica Extract, Sodium Hyaluronate, Glycerin, Leontopodium Alpinum Flower Extract, Melaleuca Alternifolia (Tea Tree) Extract, Fragrance, Limonene, Alpha-Isomethyl Ionone, Hydroxycitronellal, Benzyl Salicylate, Butylphenyl Methylpropional, Linalool."
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Brightening"
+      ],
+      "faq": [
+        {
+          "q": "Is DABO - Speed Whitening Ex Cream authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is DABO - Speed Whitening Ex Cream suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "50 ml",
+          "sku": "Dswec-50",
+          "stock": 40,
+          "price": 1200,
+          "oldPrice": 1400,
+          "image": "https://kcbazar.com/wp-content/uploads/2023/10/Dabo-Speed-Whitening-Ex-Cream-50-ml-5.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Speed Whitening Ex Toner",
+      "brand": "Dabo",
+      "category": "Toner",
+      "mainCategory": "Skincare",
+      "productType": "Toner",
+      "size": "160 ml",
+      "sku": "Dswet-160",
+      "oldPrice": 1200,
+      "offerPrice": 999,
+      "discountPct": 17,
+      "stock": 35,
+      "imageUrl": "https://kcbazar.com/wp-content/uploads/2023/10/Dabo-Speed-Whitening-Ex-Toner-160-ml-5.jpg",
+      "gallery": [
+        "https://kcbazar.com/wp-content/uploads/2023/10/Dabo-Speed-Whitening-Ex-Toner-160-ml-5.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A refreshing toner that rebalances skin, preps it for the rest of your routine and improves the look of texture and pores.",
+      "description": "Speed Whitening Ex Toner by Dabo — a toner curated for the modern skincare routine. A refreshing toner that rebalances skin, preps it for the rest of your routine and improves the look of texture and pores. Presented in a 160 ml size for consistent, everyday use.",
+      "benefits": [
+        "Balance & prep",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "Soak a cotton pad and sweep across face after cleansing, or pat in with palms. Follow with serum and moisturizer.",
+      "ingredients": [
+        "Water, Butylene Glycol, Glycerin, Niacinamide, Ethylhexylglycerin, Glyceryl Caprylate, PEG-60 Hydrogenated Castor Oil, Trehalose, Carbomer, Triethanolamine, Tranexamic Acid, Panthenol, Hydrolyzed Collagen, Ethyl Ascorbyl Ether, Arbutin, Allantoin, Glutathione, Fragrance, Limonene, Alpha-Isomethyl Ionone, Hydroxycitronellal, Benzyl Salicylate, Butylphenyl Methylpropional, Linalool, Adenosine, Disodium EDTA, Centella Asiatica Extract, Leontopodium Alpinum Flower Extract, 1,2-Hexanediol, Sodium Hyaluronate, Melaleuca Alternifolia (Tea Tree) Extract."
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Brightening"
+      ],
+      "faq": [
+        {
+          "q": "Is Speed Whitening Ex Toner authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Speed Whitening Ex Toner suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "160 ml",
+          "sku": "Dswet-160",
+          "stock": 35,
+          "price": 999,
+          "oldPrice": 1200,
+          "image": "https://kcbazar.com/wp-content/uploads/2023/10/Dabo-Speed-Whitening-Ex-Toner-160-ml-5.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Arencia Vitamin C Booster Shot",
+      "brand": "Arencia",
+      "category": "Booster",
+      "mainCategory": "Skincare",
+      "productType": "Booster",
+      "size": "30 ml",
+      "sku": "Avcbs-30",
+      "oldPrice": 1700,
+      "offerPrice": 1440,
+      "discountPct": 15,
+      "stock": 8,
+      "imageUrl": "https://korean-skincare.de/cdn/shop/files/Arencia_VitaminCBoosterShot_Photo2.jpg?v=1775057696",
+      "gallery": [
+        "https://korean-skincare.de/cdn/shop/files/Arencia_VitaminCBoosterShot_Photo2.jpg?v=1775057696"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A treatment booster that primes skin with a burst of potent actives ahead of your daily serums and creams.",
+      "description": "Arencia Vitamin C Booster Shot by Arencia — a booster curated for the modern skincare routine. A treatment booster that primes skin with a burst of potent actives ahead of your daily serums and creams. Presented in a 30 ml size for consistent, everyday use.",
+      "benefits": [
+        "Potency boost",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "Apply a few drops to freshly cleansed skin, allow to absorb, then continue with your remaining routine.",
+      "ingredients": [
+        "Niacinamide",
+        "Vitamin C (Ascorbic Acid)",
+        "Zinc PCA",
+        "Hyaluronic Acid",
+        "Glycerin"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Brightening"
+      ],
+      "faq": [
+        {
+          "q": "Is Arencia Vitamin C Booster Shot authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Arencia Vitamin C Booster Shot suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "30 ml",
+          "sku": "Avcbs-30",
+          "stock": 8,
+          "price": 1440,
+          "oldPrice": 1700,
+          "image": "https://korean-skincare.de/cdn/shop/files/Arencia_VitaminCBoosterShot_Photo2.jpg?v=1775057696"
+        }
+      ]
+    },
+    {
+      "title": "Rice Sunscreen",
+      "brand": "IM FROM",
+      "category": "Sunscreen",
+      "mainCategory": "Sun Care",
+      "productType": "Sunscreen",
+      "size": "50 ml",
+      "sku": "Imfrs-50",
+      "oldPrice": 1950,
+      "offerPrice": 1399,
+      "discountPct": 28,
+      "stock": 150,
+      "imageUrl": "https://cdn-image.oliveyoung.com/prdtImg/1969/4d8c5213-fd8d-48b4-855f-b64bd7c3ca4d.jpg?RS=1500x1500&AR=0&SF=webp&QT=80",
+      "gallery": [
+        "https://cdn-image.oliveyoung.com/prdtImg/1969/4d8c5213-fd8d-48b4-855f-b64bd7c3ca4d.jpg?RS=1500x1500&AR=0&SF=webp&QT=80"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A weightless, fast-absorbing daily sunscreen offering powerful broad-spectrum protection without white cast or stickiness.",
+      "description": "Rice Sunscreen by IM FROM — a sunscreen curated for the modern skincare routine. A weightless, fast-absorbing daily sunscreen offering powerful broad-spectrum protection without white cast or stickiness. Presented in a 50 ml size for consistent, everyday use.",
+      "benefits": [
+        "Broad-spectrum UV protection",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "SPF50+ PA++++-এর মাধ্যমে UVA ও UVB রশ্মি থেকে ত্বককে সুরক্ষিত রাখতে সাহায্য করে 41% Goami Rice Extract ত্বককে hydrated, smooth ও brighter-looking রাখতে সহায়তা করে Zinc Oxide mineral UV filter হিসেবে broad-spectrum sun protection দিতে সাহায্য করে Sodium Hyaluronate ত্বকের hydration বজায় রাখতে সহায়তা করে Tocopherol antioxidant care-এ সাহায্য করে ত্বকের dull-looking appearance কমিয়ে আরও fresh ও radiant দেখাতে সহায়তা করে ত্বককে smooth ও moisturized অনুভব করতে সাহায্য করে Cream texture হওয়ায় ত্বকে সহজে spread ও blend করা যায় Natural matte finish দিতে সাহায্য করে এবং sticky feeling কম রাখে Sensitive skin-এর জন্যও উপযোগী হিসেবে বাজারজাত করা হয়েছে ৫০ ml সাইজ হওয়ায় দৈনন্দিন sun-care routine-এর জন্য সুবিধাজনক"
+      ],
+      "howToUse": "As the last step of your morning routine, apply an adequate amount evenly over face and neck. Reapply every 2–3 hours when outdoors.",
+      "ingredients": [
+        "Rice Water",
+        "Rice Bran Oil",
+        "Saponaria Officinalis Extract",
+        "Glycerin",
+        "Ceramide NP"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Sun Protection"
+      ],
+      "faq": [
+        {
+          "q": "Is Rice Sunscreen authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Rice Sunscreen suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "50 ml",
+          "sku": "Imfrs-50",
+          "stock": 150,
+          "price": 1399,
+          "oldPrice": 1950,
+          "image": "https://cdn-image.oliveyoung.com/prdtImg/1969/4d8c5213-fd8d-48b4-855f-b64bd7c3ca4d.jpg?RS=1500x1500&AR=0&SF=webp&QT=80"
+        }
+      ]
+    },
+    {
+      "title": "Collagen And Hyaluronic Acid Ampoule",
+      "brand": "FARMSTAY",
+      "category": "Ampoule",
+      "mainCategory": "Skincare",
+      "productType": "Ampoule",
+      "size": "250 ml",
+      "sku": "Fcahaa-250",
+      "oldPrice": 1350,
+      "offerPrice": 1180,
+      "discountPct": 13,
+      "stock": 85,
+      "imageUrl": "https://cms.beautybooth.com.bd/uploads/all/eWVmtJs8ScTEZ5DbAkUxPdxuj7t4KKeIll9f3KlE.jpg",
+      "gallery": [
+        "https://cms.beautybooth.com.bd/uploads/all/eWVmtJs8ScTEZ5DbAkUxPdxuj7t4KKeIll9f3KlE.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A lightweight concentrated ampoule that delivers a high dose of potent actives to visibly improve skin tone and texture.",
+      "description": "Collagen And Hyaluronic Acid Ampoule by FARMSTAY — a ampoule curated for the modern skincare routine. A lightweight concentrated ampoule that delivers a high dose of potent actives to visibly improve skin tone and texture. Presented in a 250 ml size for consistent, everyday use.",
+      "benefits": [
+        "Concentrated actives",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "Apply a few drops after toner over the whole face, pressing gently into skin. Seal with a moisturizer.",
+      "ingredients": [
+        "Water (Aqua), Sodium Hyaluronate (10,750 mg), Butylene Glycol, Niacinamide, Hydrolyzed Collagen (2,500 mg), Glycerin, Phenoxyethanol, Caprylyl Glycol, PEG-60 Hydrogenated Castor Oil, Jojoba Esters, Tocopheryl Acetate, Ascorbyl Palmitate, Lactose, Cellulose, Hydroxypropyl Methylcellulose, Carbomer, Triethanolamine, Hamamelis Virginiana (Witch Hazel) Extract, Simmondsia Chinensis (Jojoba) Seed Extract, Jania Rubens Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Camellia Sinensis Leaf Extract, Xanthan Gum, Disodium EDTA, Adenosine, Fragrance (Parfum), Limonene."
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Hydration",
+        "Anti-Aging"
+      ],
+      "faq": [
+        {
+          "q": "Is Collagen And Hyaluronic Acid Ampoule authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Collagen And Hyaluronic Acid Ampoule suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "250 ml",
+          "sku": "Fcahaa-250",
+          "stock": 85,
+          "price": 1180,
+          "oldPrice": 1350,
+          "image": "https://cms.beautybooth.com.bd/uploads/all/eWVmtJs8ScTEZ5DbAkUxPdxuj7t4KKeIll9f3KlE.jpg"
+        }
+      ]
+    },
+    {
+      "title": "UV Tone Up Sun Cream SPF 50+ PA+++",
+      "brand": "Nature Skin",
+      "category": "Sunscreen",
+      "mainCategory": "Sun Care",
+      "productType": "Sunscreen",
+      "size": "55 ml",
+      "sku": "Nsutusc-55",
+      "oldPrice": 650,
+      "offerPrice": 500,
+      "discountPct": 23,
+      "stock": 155,
+      "imageUrl": "https://chardike-bucket.s3.amazonaws.com/media/product/main_image/NATURE_SKIN_UV_Tone_Up_Sun_Cream_SPF50_PA.webp",
+      "gallery": [
+        "https://chardike-bucket.s3.amazonaws.com/media/product/main_image/NATURE_SKIN_UV_Tone_Up_Sun_Cream_SPF50_PA.webp"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion.",
+      "description": "UV Tone Up Sun Cream SPF 50+ PA+++ by Nature Skin — a sunscreen curated for the modern skincare routine. A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion. Presented in a 55 ml size for consistent, everyday use.",
+      "benefits": [
+        "Deep hydration",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "SPF 50+ / PA+++ protection-এর মাধ্যমে UVA ও UVB রশ্মি থেকে ত্বককে সুরক্ষিত রাখতে সাহায্য করে Titanium Dioxide ও Zinc Oxide-এর মতো UV filters সূর্যের ক্ষতিকর UV radiation থেকে protection দিতে সহায়তা করে ত্বককে তাৎক্ষণিকভাবে আরও bright ও even-looking দেখাতে tone-up effect প্রদান করে Mica ও Iron Oxides ত্বকের appearance-কে আরও smooth ও radiant-looking দেখাতে সাহায্য করে Makeup-এর আগে sunscreen ও tone-up base হিসেবে ব্যবহার করা যায় Sodium Hyaluronate ত্বকের hydration বজায় রাখতে সহায়তা করে Glutathione ত্বকের brightening ও conditioning care-এ সাহায্য করে Chamomile Flower Extract ত্বকের conditioning care-এ সহায়তা করে ত্বককে fresh, smooth ও healthy-looking দেখাতে সাহায্য করে Product information অনুযায়ী ঘাম বা পানির সংস্পর্শে তুলনামূলকভাবে সহজে উঠে যায় না Non-greasy feel দেওয়ার জন্য তৈরি মুখ, গলা, বাহু ও পায়ের মতো sun-exposed areas-এ ব্যবহার করা যায় ৫৫ ml সাইজ হওয়ায় দৈনন্দিন sun-care routine-এর জন্য সুবিধাজনক"
+      ],
+      "howToUse": "Cleanser, toner ও moisturizer ব্যবহারের পর skincare routine-এর শেষ ধাপে sunscreen হিসেবে ব্যবহার করুন। মুখ, গলা, বাহু, পা এবং সূর্যের সংস্পর্শে আসা অন্যান্য অংশে পর্যাপ্ত পরিমাণে সমানভাবে লাগান। মুখে ব্যবহার করলে কপাল, নাক, গাল, চিবুক ও jawline-এ ভালোভাবে blend করুন। Makeup ব্যবহার করলে sunscreen লাগানোর পর কিছুক্ষণ সেট হতে দিন, তারপর makeup apply করুন। দীর্ঘ সময় বাইরে থাকলে sunscreen পুনরায় ব্যবহার করুন; বিশেষ করে ঘাম বা পানির সংস্পর্শে এলে reapply করা প্রয়োজন।",
+      "ingredients": [
+        "Titanium Dioxide",
+        "Niacinamide",
+        "Arbutin",
+        "Glutathione",
+        "Glycerin"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Brightening",
+        "Sun Protection"
+      ],
+      "faq": [
+        {
+          "q": "Is UV Tone Up Sun Cream SPF 50+ PA+++ authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is UV Tone Up Sun Cream SPF 50+ PA+++ suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "55 ml",
+          "sku": "Nsutusc-55",
+          "stock": 155,
+          "price": 500,
+          "oldPrice": 650,
+          "image": "https://chardike-bucket.s3.amazonaws.com/media/product/main_image/NATURE_SKIN_UV_Tone_Up_Sun_Cream_SPF50_PA.webp"
+        }
+      ]
+    },
+    {
+      "title": "Glow Pack Glutathione Glow Wrapping Mask",
+      "brand": "Dabo",
+      "category": "Mask",
+      "mainCategory": "Skincare",
+      "productType": "Mask",
+      "size": "70 ml",
+      "sku": "Dgpggwm-70",
+      "oldPrice": 2460,
+      "offerPrice": 1500,
+      "discountPct": 39,
+      "stock": 95,
+      "imageUrl": "https://static-01.daraz.com.bd/p/92bd7a37a758f55d0e3cf2cfec9c2671.jpg",
+      "gallery": [
+        "https://static-01.daraz.com.bd/p/92bd7a37a758f55d0e3cf2cfec9c2671.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A pampering wash-off mask that drenches skin with conditioning actives for an instant refreshed, radiant finish.",
+      "description": "Glow Pack Glutathione Glow Wrapping Mask by Dabo — a mask curated for the modern skincare routine. A pampering wash-off mask that drenches skin with conditioning actives for an instant refreshed, radiant finish. Presented in a 70 ml size for consistent, everyday use.",
+      "benefits": [
+        "Instant radiance",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "Apply an even layer to clean dry skin, leave on for 15–20 minutes, then rinse with lukewarm water. Use 1–2 times a week.",
+      "ingredients": [
+        "Glutathione",
+        "Niacinamide",
+        "Tranexamic Acid",
+        "Shea Butter",
+        "Vitamin E"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Brightening"
+      ],
+      "faq": [
+        {
+          "q": "Is Glow Pack Glutathione Glow Wrapping Mask authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Glow Pack Glutathione Glow Wrapping Mask suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "70 ml",
+          "sku": "Dgpggwm-70",
+          "stock": 95,
+          "price": 1500,
+          "oldPrice": 2460,
+          "image": "https://static-01.daraz.com.bd/p/92bd7a37a758f55d0e3cf2cfec9c2671.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Cosrx AHA/BHA Clarifying Treatment Toner",
+      "brand": "COSRX",
+      "category": "Toner",
+      "mainCategory": "Skincare",
+      "productType": "Toner",
+      "size": "150 ml",
+      "sku": "COS-AHABHA-TON-150",
+      "oldPrice": 2100,
+      "offerPrice": 1400,
+      "discountPct": 33,
+      "stock": 3,
+      "imageUrl": "https://e-mart.com.bd/_next/image?url=https%3A%2F%2Fe-mart.com.bd%2Fwp-content%2Fuploads%2F2023%2F03%2Femart-cosrx-aha-bha-clarifying-treatment-toner-50ml.jpg&w=1920&q=85",
+      "gallery": [
+        "https://e-mart.com.bd/_next/image?url=https%3A%2F%2Fe-mart.com.bd%2Fwp-content%2Fuploads%2F2023%2F03%2Femart-cosrx-aha-bha-clarifying-treatment-toner-50ml.jpg&w=1920&q=85"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A refreshing toner that rebalances skin, preps it for the rest of your routine and improves the look of texture and pores.",
+      "description": "Cosrx AHA/BHA Clarifying Treatment Toner by COSRX — a toner curated for the modern skincare routine. A refreshing toner that rebalances skin, preps it for the rest of your routine and improves the look of texture and pores. Presented in a 150 ml size for consistent, everyday use.",
+      "benefits": [
+        "Balance & prep",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "Cleanser দিয়ে মুখ পরিষ্কার করার পর একটি cotton pad-এ পর্যাপ্ত পরিমাণ toner spray করুন। এরপর চোখ ও ঠোঁটের চারপাশের অংশ এড়িয়ে মুখে আলতোভাবে wipe করুন। অতিরিক্ত ঘষাঘষি না করে productটি ত্বকে কাজ করতে দিন। দিনের বেলা ব্যবহার করলে broad-spectrum sunscreen SPF 30 বা তার বেশি ব্যবহার করুন। একই routine-এ অন্যান্য AHA, BHA, Retinol ও Vitamin C-এর সঙ্গে এটি ব্যবহার না করাই ভালো।",
+      "ingredients": [
+        "Water, Salix Alba (Willow) Bark Water, Pyrus Malus (Apple) Fruit Water, Butylene Glycol, 1,2-Hexanediol, Sodium Lactate, Glycolic Acid, Betaine Salicylate, Allantoin, Panthenol, Ethyl Hexanediol."
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Brightening",
+        "Acne & Texture"
+      ],
+      "faq": [
+        {
+          "q": "Is Cosrx AHA/BHA Clarifying Treatment Toner authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Cosrx AHA/BHA Clarifying Treatment Toner suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "150 ml",
+          "sku": "COS-AHABHA-TON-150",
+          "stock": 3,
+          "price": 1400,
+          "oldPrice": 2100,
+          "image": "https://e-mart.com.bd/_next/image?url=https%3A%2F%2Fe-mart.com.bd%2Fwp-content%2Fuploads%2F2023%2F03%2Femart-cosrx-aha-bha-clarifying-treatment-toner-50ml.jpg&w=1920&q=85"
+        }
+      ]
+    },
+    {
+      "title": "Cosrx Advance Snail 96 Mucin Power Essence",
+      "brand": "COSRX",
+      "category": "Essence",
+      "mainCategory": "Skincare",
+      "productType": "Essence",
+      "size": "100 ml",
+      "sku": "COS-SNAIL96-100",
+      "oldPrice": 2330,
+      "offerPrice": 1450,
+      "discountPct": 38,
+      "stock": 2,
+      "imageUrl": "https://holyskin.fr/cdn/shop/files/COSRX-Advanced-Snail-96-Mucin-Power-Essence-2.webp?v=1776243572&width=1445",
+      "gallery": [
+        "https://holyskin.fr/cdn/shop/files/COSRX-Advanced-Snail-96-Mucin-Power-Essence-2.webp?v=1776243572&width=1445"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A lightweight hydrating essence that layers moisture into skin and preps it to absorb the rest of your routine.",
+      "description": "Cosrx Advance Snail 96 Mucin Power Essence by COSRX — a essence curated for the modern skincare routine. A lightweight hydrating essence that layers moisture into skin and preps it to absorb the rest of your routine. Presented in a 100 ml size for consistent, everyday use.",
+      "benefits": [
+        "Hydration boost",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "96.3% Snail Secretion Filtrate ত্বকের hydration ও barrier care-এ সহায়তা করে ত্বকের moisture ধরে রাখতে এবং dehydration কমাতে সাহায্য করে ত্বককে আরও smooth ও supple-looking দেখাতে সহায়তা করে Uneven skin texture-এর appearance আরও refined করতে সাহায্য করে ত্বকের natural glow ও radiance বাড়াতে সহায়তা করে Post-breakout marks-এর appearance ও uneven-looking skin tone-এর যত্নে সাহায্য করে Allantoin ও Panthenol ত্বককে soothe ও condition করতে সহায়তা করে Sodium Hyaluronate ত্বকের hydration বজায় রাখতে সাহায্য করে Barrier-weakened ও sensitive skin-এর skincare routine-এ ব্যবহার করা যায় Lightweight ও fast-absorbing essence texture ত্বককে আরও plump, hydrated ও dewy-looking দেখাতে সাহায্য করে ১০০ ml সাইজ হওয়ায় নিয়মিত ব্যবহারের জন্য সুবিধাজনক"
+      ],
+      "howToUse": "Cleanser ও toner ব্যবহারের পর অল্প পরিমাণ essence পুরো মুখে apply করুন। এরপর আঙুলের ডগা দিয়ে আলতোভাবে pat করে ত্বকে absorb হতে দিন। এরপর moisturizer ব্যবহার করুন। দিনের routine-এ ব্যবহার করলে moisturizer-এর পর sunscreen ব্যবহার করুন। রাতে ব্যবহার করলে essence-এর পরে moisturizer বা sleeping mask ব্যবহার করা যেতে পারে।",
+      "ingredients": [
+        "Snail Secretion Filtrate 96%",
+        "Betaine",
+        "Sodium Hyaluronate",
+        "Arginine",
+        "Panthenol"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Hydration"
+      ],
+      "faq": [
+        {
+          "q": "Is Cosrx Advance Snail 96 Mucin Power Essence authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Cosrx Advance Snail 96 Mucin Power Essence suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "100 ml",
+          "sku": "COS-SNAIL96-100",
+          "stock": 2,
+          "price": 1450,
+          "oldPrice": 2330,
+          "image": "https://holyskin.fr/cdn/shop/files/COSRX-Advanced-Snail-96-Mucin-Power-Essence-2.webp?v=1776243572&width=1445"
+        }
+      ]
+    },
+    {
+      "title": "Cosrx The Vitamin C 23 Serum",
+      "brand": "COSRX",
+      "category": "Serum",
+      "mainCategory": "Skincare",
+      "productType": "Serum",
+      "size": "20 ml",
+      "sku": "COS-VITC23-20",
+      "oldPrice": 2500,
+      "offerPrice": 1700,
+      "discountPct": 32,
+      "stock": 3,
+      "imageUrl": "https://mapetitecoree.com/cdn/shop/files/COSRX-The-Vitamin-C-23-Serum-20ml-Ma-Petite-Coree.jpg?v=1747481989",
+      "gallery": [
+        "https://mapetitecoree.com/cdn/shop/files/COSRX-The-Vitamin-C-23-Serum-20ml-Ma-Petite-Coree.jpg?v=1747481989"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives.",
+      "description": "Cosrx The Vitamin C 23 Serum by COSRX — a serum curated for the modern skincare routine. A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives. Presented in a 20 ml size for consistent, everyday use.",
+      "benefits": [
+        "Targeted treatment",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "Cleanser ও toner ব্যবহারের পর অল্প পরিমাণ serum নিয়ে মুখে সমানভাবে apply করুন। চোখ ও ঠোঁটের চারপাশের অংশ এড়িয়ে চলুন এবং serumটি আলতোভাবে pat করে absorb হতে দিন। নতুন ব্যবহারকারী হলে সপ্তাহে কয়েকবার দিয়ে শুরু করে ত্বকের tolerance অনুযায়ী frequency বাড়ানো ভালো। সকালে ব্যবহার করলে অবশ্যই sunscreen ব্যবহার করুন। Vitamin C serumটি অন্যান্য strong exfoliating acids, retinol বা highly active products-এর সঙ্গে একই routine-এ ব্যবহার করার আগে ত্বকের tolerance বিবেচনা করুন।",
+      "ingredients": [
+        "Niacinamide",
+        "Vitamin C (Ascorbic Acid)",
+        "Zinc PCA",
+        "Hyaluronic Acid",
+        "Glycerin"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Brightening"
+      ],
+      "faq": [
+        {
+          "q": "Is Cosrx The Vitamin C 23 Serum authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Cosrx The Vitamin C 23 Serum suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "20 ml",
+          "sku": "COS-VITC23-20",
+          "stock": 3,
+          "price": 1700,
+          "oldPrice": 2500,
+          "image": "https://mapetitecoree.com/cdn/shop/files/COSRX-The-Vitamin-C-23-Serum-20ml-Ma-Petite-Coree.jpg?v=1747481989"
+        }
+      ]
+    },
+    {
+      "title": "Cosrx Salicylic Acid Daily Gentle Cleanser",
+      "brand": "COSRX",
+      "category": "Cleanser",
+      "mainCategory": "Skincare",
+      "productType": "Cleanser",
+      "size": "150 ml",
+      "sku": "COS-SALICYLIC-150",
+      "oldPrice": 1500,
+      "offerPrice": 1100,
+      "discountPct": 27,
+      "stock": 3,
+      "imageUrl": "https://finelook.com/cdn/shop/files/COSRXCosrxSalicylicAcidDailyGentleCleanser4.jpg?v=1740467996",
+      "gallery": [
+        "https://finelook.com/cdn/shop/files/COSRXCosrxSalicylicAcidDailyGentleCleanser4.jpg?v=1740467996"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A gentle yet effective cleanser that lifts away impurities, excess sebum and makeup residue while leaving skin soft, comfortable and balanced.",
+      "description": "Cosrx Salicylic Acid Daily Gentle Cleanser by COSRX — a cleanser curated for the modern skincare routine. A gentle yet effective cleanser that lifts away impurities, excess sebum and makeup residue while leaving skin soft, comfortable and balanced. Presented in a 150 ml size for consistent, everyday use.",
+      "benefits": [
+        "Deep cleansing",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "Massage a small amount onto damp skin in gentle circular motions, then rinse thoroughly with lukewarm water. Use morning and evening.",
+      "ingredients": [
+        "Water, Glycerin, Sodium Methyl Cocoyl Taurate, Potassium Cocoyl Glycinate, Cocamidopropyl Betaine, Sodium Chloride, Salicylic Acid, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Saccharomyces Ferment, Citric Acid, Allantoin, Ethyl Hexanediol, 1,2-Hexanediol, Caprylyl Glycol and other supporting ingredients."
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Acne & Texture"
+      ],
+      "faq": [
+        {
+          "q": "Is Cosrx Salicylic Acid Daily Gentle Cleanser authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Cosrx Salicylic Acid Daily Gentle Cleanser suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "150 ml",
+          "sku": "COS-SALICYLIC-150",
+          "stock": 3,
+          "price": 1100,
+          "oldPrice": 1500,
+          "image": "https://finelook.com/cdn/shop/files/COSRXCosrxSalicylicAcidDailyGentleCleanser4.jpg?v=1740467996"
+        }
+      ]
+    },
+    {
+      "title": "Missha Ultra Hyalron Foaming Cleanser",
+      "brand": "MISSHA",
+      "category": "Cleanser",
+      "mainCategory": "Skincare",
+      "productType": "Cleanser",
+      "size": "200 ml",
+      "sku": "MIS-ULTRAHYAL-200",
+      "oldPrice": 1500,
+      "offerPrice": 1099,
+      "discountPct": 27,
+      "stock": 0,
+      "imageUrl": "https://holyskin.fr/cdn/shop/files/Missha-Super-Aqua-Ultra-Hyalron-Foaming-Cleanser-4_1920x.webp?v=1778406194",
+      "gallery": [
+        "https://holyskin.fr/cdn/shop/files/Missha-Super-Aqua-Ultra-Hyalron-Foaming-Cleanser-4_1920x.webp?v=1778406194"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A gentle yet effective cleanser that lifts away impurities, excess sebum and makeup residue while leaving skin soft, comfortable and balanced.",
+      "description": "Missha Ultra Hyalron Foaming Cleanser by MISSHA — a cleanser curated for the modern skincare routine. A gentle yet effective cleanser that lifts away impurities, excess sebum and makeup residue while leaving skin soft, comfortable and balanced. Presented in a 200 ml size for consistent, everyday use.",
+      "benefits": [
+        "Deep cleansing",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use"
+      ],
+      "howToUse": "Massage a small amount onto damp skin in gentle circular motions, then rinse thoroughly with lukewarm water. Use morning and evening.",
+      "ingredients": [
+        "Water, Glycerin, Myristic Acid, Stearic Acid, Potassium Hydroxide, Lauric Acid, Glycol Distearate, Cocamidopropyl Betaine, Sodium Methyl Cocoyl Taurate, Glyceryl Stearate, PEG-100 Stearate, Sodium Chloride, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Panthenol, Allantoin, Butylene Glycol, 1,2-Hexanediol, Disodium EDTA, Fragrance and other supporting ingredients."
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Hydration"
+      ],
+      "faq": [
+        {
+          "q": "Is Missha Ultra Hyalron Foaming Cleanser authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Missha Ultra Hyalron Foaming Cleanser suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "200 ml",
+          "sku": "MIS-ULTRAHYAL-200",
+          "stock": 0,
+          "price": 1099,
+          "oldPrice": 1500,
+          "image": "https://holyskin.fr/cdn/shop/files/Missha-Super-Aqua-Ultra-Hyalron-Foaming-Cleanser-4_1920x.webp?v=1778406194"
+        }
+      ]
+    },
+    {
+      "title": "Missha M B.B Boomer",
+      "brand": "MISSHA",
+      "category": "Boomer",
+      "mainCategory": "Skincare",
+      "productType": "Boomer",
+      "size": "40 ml",
+      "sku": "MIS-BBBOOMER-40",
+      "oldPrice": 1400,
+      "offerPrice": 1150,
+      "discountPct": 18,
+      "stock": 3,
+      "imageUrl": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/msh/msh45147/l/28.jpg",
+      "gallery": [
+        "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/msh/msh45147/l/28.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives.",
+      "description": "Missha M B.B Boomer by MISSHA — a boomer curated for the modern skincare routine. A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives. Presented in a 40 ml size for consistent, everyday use.",
+      "benefits": [
+        "Targeted treatment",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "BB cream বা foundation-এর আগে makeup base হিসেবে ব্যবহার করা যায় ত্বককে আরও smooth ও radiant-looking দেখাতে সাহায্য করে Makeup-এর adherence বাড়াতে সহায়তা করে BB cream ও makeup-এর finish আরও even-looking করতে সাহায্য করে ত্বককে hydrated ও luminous-looking রাখতে সহায়তা করে Pearl Powder ত্বকে subtle glow দিতে সাহায্য করে Sodium Hyaluronate ত্বকের hydration বজায় রাখতে সহায়তা করে Hydrolyzed Collagen ত্বকের conditioning care-এ সাহায্য করে Makeup-এর longevity বাড়াতে সহায়তা করে বিশেষ করে MISSHA BB Cream-এর সঙ্গে ব্যবহারের জন্য উপযোগী ৪০ ml সাইজ হওয়ায় নিয়মিত makeup routine-এর জন্য সুবিধাজনক"
+      ],
+      "howToUse": "Skincare routine সম্পন্ন করার পর মুখে অল্প পরিমাণ MISSHA M B.B Boomer apply করুন। পুরো মুখে সমানভাবে একটি পাতলা layer করে blend করুন। এরপর আপনার পছন্দের BB cream বা foundation apply করুন। বিশেষ করে MISSHA M Perfect Cover BB Cream-এর আগে ব্যবহার করলে makeup আরও smooth ও radiant-looking finish পেতে সাহায্য করতে পারে।",
+      "ingredients": [
+        "Water, Cyclopentasiloxane, Glycerin, Dimethicone, Butylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Methyl Methacrylate Crosspolymer, Polyglyceryl-3 Diisostearate, Sodium Chloride, Phenoxyethanol, Fragrance, Pearl Powder, Hydrolyzed Collagen, Sodium Hyaluronate, Adenosine and other supporting ingredients."
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Hydration"
+      ],
+      "faq": [
+        {
+          "q": "Is Missha M B.B Boomer authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Missha M B.B Boomer suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "40 ml",
+          "sku": "MIS-BBBOOMER-40",
+          "stock": 3,
+          "price": 1150,
+          "oldPrice": 1400,
+          "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/msh/msh45147/l/28.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Missha M Perfect Cover B.B Cream SPF42 / PA+++ No.23",
+      "brand": "MISSHA",
+      "category": "Cream",
+      "mainCategory": "Skincare",
+      "productType": "Cream",
+      "size": "50 ml",
+      "sku": "MIS-PERFECTBB-23-50",
+      "oldPrice": 1650,
+      "offerPrice": 1220,
+      "discountPct": 26,
+      "stock": 3,
+      "imageUrl": "https://bk.shajgoj.com/storage/2022/07/Missha-M-Perfect-Cover-BB-Cream-SPF-42-PA-Natural-Beige-23_sku23779.jpg",
+      "gallery": [
+        "https://bk.shajgoj.com/storage/2022/07/Missha-M-Perfect-Cover-BB-Cream-SPF-42-PA-Natural-Beige-23_sku23779.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion.",
+      "description": "Missha M Perfect Cover B.B Cream SPF42 / PA+++ No.23 by MISSHA — a cream curated for the modern skincare routine. A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion. Presented in a 50 ml size for consistent, everyday use.",
+      "benefits": [
+        "Deep hydration",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "SPF42 / PA+++ sun protection-এর মাধ্যমে UVA ও UVB exposure থেকে ত্বককে সুরক্ষিত রাখতে সাহায্য করে ত্বকের uneven tone ও minor imperfections-এর appearance cover করতে সাহায্য করে Redness ও discoloration-এর appearance কমিয়ে complexion আরও even-looking করতে সাহায্য করে Natural-looking coverage প্রদান করে No.23 Natural Beige shade ত্বকে natural-looking finish দিতে সাহায্য করে ত্বকের appearance আরও smooth ও polished দেখাতে সহায়তা করে Sodium Hyaluronate ত্বকের hydration বজায় রাখতে সাহায্য করে Ceramide skin-conditioning ও moisture barrier care-এ সহায়তা করে Adenosine ত্বকের overall conditioning care-এ সাহায্য করে Chamomile ও Rosemary extracts ত্বকের conditioning care-এ সহায়তা করে Makeup ও skincare-এর কিছু সুবিধা একসাথে প্রদান করে Daily makeup routine-এর জন্য উপযোগী ৫০ ml সাইজ হওয়ায় নিয়মিত ব্যবহারের জন্য সুবিধাজনক"
+      ],
+      "howToUse": "Skincare routine সম্পন্ন করার পর মুখে অল্প পরিমাণ BB cream apply করুন। কপাল, গাল, নাক ও চিবুকে ছোট ছোট পরিমাণে নিয়ে আঙুল, makeup sponge অথবা brush দিয়ে পুরো মুখে সমানভাবে blend করুন। প্রয়োজনে coverage বাড়ানোর জন্য নির্দিষ্ট areas-এ দ্বিতীয় পাতলা layer apply করতে পারেন। এটি sunscreen-এর বিকল্প হিসেবে ব্যবহার না করে পর্যাপ্ত পরিমাণ dedicated sunscreen ব্যবহার করা ভালো, বিশেষ করে দীর্ঘ সময় বাইরে থাকলে।",
+      "ingredients": [
+        "Water, Cyclomethicone, Ethylhexyl Methoxycinnamate, Butylene Glycol, Zinc Oxide, Titanium Dioxide, Dimethicone, Cetyl PEG/PPG-10/1 Dimethicone, Glycerin, Magnesium Sulfate, Caprylic/Capric Triglyceride, Beeswax, Sodium Chloride, Fragrance, Phenoxyethanol, Methylparaben, Propylparaben, Adenosine, Sodium Hyaluronate, Ceramide 3, Rosemary Leaf Extract, Chamomile Flower Extract and other supporting ingredients."
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Sun Protection"
+      ],
+      "faq": [
+        {
+          "q": "Is Missha M Perfect Cover B.B Cream SPF42 / PA+++ No.23 authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Missha M Perfect Cover B.B Cream SPF42 / PA+++ No.23 suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "50 ml",
+          "sku": "MIS-PERFECTBB-23-50",
+          "stock": 3,
+          "price": 1220,
+          "oldPrice": 1650,
+          "image": "https://bk.shajgoj.com/storage/2022/07/Missha-M-Perfect-Cover-BB-Cream-SPF-42-PA-Natural-Beige-23_sku23779.jpg"
+        }
+      ]
+    },
+    {
+      "title": "3W Clinic Intensive UV Sunblock Cream SPF50+/PA+++",
+      "brand": "3W Clinic",
+      "category": "Cream",
+      "mainCategory": "Skincare",
+      "productType": "Cream",
+      "size": "70 ml",
+      "sku": "3WC-UVSUN-70",
+      "oldPrice": 850,
+      "offerPrice": 450,
+      "discountPct": 47,
+      "stock": 3,
+      "imageUrl": "https://static-01.daraz.com.bd/p/187c1cb96e7c241a422734622c75491e.jpg",
+      "gallery": [
+        "https://static-01.daraz.com.bd/p/187c1cb96e7c241a422734622c75491e.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion.",
+      "description": "3W Clinic Intensive UV Sunblock Cream SPF50+/PA+++ by 3W Clinic — a cream curated for the modern skincare routine. A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion. Presented in a 70 ml size for consistent, everyday use.",
+      "benefits": [
+        "Deep hydration",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "SPF50+ / PA+++ protection-এর মাধ্যমে UVA ও UVB রশ্মি থেকে ত্বককে সুরক্ষিত রাখতে সাহায্য করে Titanium Dioxide ও অন্যান্য UV filters সূর্যের UV radiation থেকে protection দিতে সহায়তা করে ত্বকের moisture বজায় রাখতে সাহায্য করে Aloe Barbadensis Leaf Extract ত্বকের conditioning ও soothing care-এ সহায়তা করে Hydrolyzed Collagen ত্বকের conditioning care-এ সাহায্য করে Red Ginseng Extract ও Morus Alba Bark Extract ত্বকের conditioning care-এ সহায়তা করে Arbutin ত্বকের complexion আরও even-looking দেখাতে সহায়তা করে Betaine ত্বকের moisture ধরে রাখতে সাহায্য করে Allantoin ত্বকের comfort ও conditioning বজায় রাখতে সহায়তা করে Creamy texture ত্বকে সহজে spread করতে সাহায্য করে Makeup-এর আগে base হিসেবে ব্যবহার করা যায় ত্বককে soft ও smooth-looking রাখতে সহায়তা করে ৭০ ml সাইজ হওয়ায় নিয়মিত sunscreen routine-এর জন্য সুবিধাজনক"
+      ],
+      "howToUse": "After serum, apply an even layer over the face and neck, gently pressing into skin until fully absorbed. Use morning and evening as the final step.",
+      "ingredients": [
+        "Zinc Oxide",
+        "Ethylhexyl Triazone",
+        "Niacinamide",
+        "Rice Extract",
+        "Glycerin"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Sun Protection"
+      ],
+      "faq": [
+        {
+          "q": "Is 3W Clinic Intensive UV Sunblock Cream SPF50+/PA+++ authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is 3W Clinic Intensive UV Sunblock Cream SPF50+/PA+++ suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "70 ml",
+          "sku": "3WC-UVSUN-70",
+          "stock": 3,
+          "price": 450,
+          "oldPrice": 850,
+          "image": "https://static-01.daraz.com.bd/p/187c1cb96e7c241a422734622c75491e.jpg"
+        }
+      ]
+    },
+    {
+      "title": "TIAM Daily Sun Care Cream SPF50+ PA++++",
+      "brand": "Tiam",
+      "category": "Cream",
+      "mainCategory": "Skincare",
+      "productType": "Cream",
+      "size": "50 ml",
+      "sku": "TIA-DAILYSUN-50",
+      "oldPrice": 1650,
+      "offerPrice": 1099,
+      "discountPct": 33,
+      "stock": 2,
+      "imageUrl": "https://product.hstatic.net/200000617989/product/kem_chong_nang_tia_m_daily_sun_care_cream__1__98c7f34baed845568861e328b5ca8dbd.jpg",
+      "gallery": [
+        "https://product.hstatic.net/200000617989/product/kem_chong_nang_tia_m_daily_sun_care_cream__1__98c7f34baed845568861e328b5ca8dbd.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion.",
+      "description": "TIAM Daily Sun Care Cream SPF50+ PA++++ by Tiam — a cream curated for the modern skincare routine. A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion. Presented in a 50 ml size for consistent, everyday use.",
+      "benefits": [
+        "Deep hydration",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "SPF50+ / PA++++ protection-এর মাধ্যমে UVA ও UVB রশ্মি থেকে ত্বককে সুরক্ষিত রাখতে সাহায্য করে একাধিক UV filters-এর মাধ্যমে broad-spectrum UV protection-এ সহায়তা করে Glycerin ত্বকের moisture ধরে রাখতে সাহায্য করে Aloe Barbadensis Leaf Extract ত্বকের conditioning ও soothing care-এ সহায়তা করে Ascorbyl Glucoside ও Ascorbic Acid Vitamin C-based skin-conditioning care-এ সহায়তা করে Tocopheryl Acetate Vitamin E-এর form হিসেবে antioxidant skin-conditioning care-এ সহায়তা করে Dipotassium Glycyrrhizate ত্বকের comfort ও conditioning বজায় রাখতে সাহায্য করে Lightweight formula ত্বকে সহজে spread করতে সাহায্য করে Invisible-looking finish দিতে সাহায্য করে Makeup-এর আগে ব্যবহার করা যায় Daily sun-care routine-এর জন্য উপযোগী ৫০ ml সাইজ হওয়ায় নিয়মিত ব্যবহারের জন্য সুবিধাজনক"
+      ],
+      "howToUse": "Cleanser, toner, serum ও moisturizer ব্যবহারের পর skincare routine-এর শেষ ধাপে sunscreen হিসেবে ব্যবহার করুন। মুখ, গলা এবং সূর্যের সংস্পর্শে আসা অন্যান্য exposed areas-এ পর্যাপ্ত পরিমাণে সমানভাবে apply করুন। সূর্যের সংস্পর্শে যাওয়ার আগে sunscreen apply করুন। Makeup ব্যবহার করলে sunscreen apply করার পর কিছুক্ষণ সেট হতে দিয়ে makeup apply করুন। দীর্ঘ সময় বাইরে থাকলে sunscreen পুনরায় apply করুন, বিশেষ করে ঘাম, পানি বা wiping-এর পর।",
+      "ingredients": [
+        "Zinc Oxide",
+        "Ethylhexyl Triazone",
+        "Niacinamide",
+        "Rice Extract",
+        "Glycerin"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Sun Protection"
+      ],
+      "faq": [
+        {
+          "q": "Is TIAM Daily Sun Care Cream SPF50+ PA++++ authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is TIAM Daily Sun Care Cream SPF50+ PA++++ suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "50 ml",
+          "sku": "TIA-DAILYSUN-50",
+          "stock": 2,
+          "price": 1099,
+          "oldPrice": 1650,
+          "image": "https://product.hstatic.net/200000617989/product/kem_chong_nang_tia_m_daily_sun_care_cream__1__98c7f34baed845568861e328b5ca8dbd.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Cosrx advance snail 92 all in one cream (Tube)",
+      "brand": "COSRX",
+      "category": "Cream",
+      "mainCategory": "Skincare",
+      "productType": "Cream",
+      "size": "50 ml",
+      "sku": "COS-SNAIL92-TUBE-50",
+      "oldPrice": 1500,
+      "offerPrice": 900,
+      "discountPct": 40,
+      "stock": 0,
+      "imageUrl": "https://d2c3d01lcpw2ui.cloudfront.net/gl/data/item/1730795449/dafef7a401f34b499131127e706f264c176586710844151490cb52bdc.webp",
+      "gallery": [
+        "https://d2c3d01lcpw2ui.cloudfront.net/gl/data/item/1730795449/dafef7a401f34b499131127e706f264c176586710844151490cb52bdc.webp"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion.",
+      "description": "Cosrx advance snail 92 all in one cream (Tube) by COSRX — a cream curated for the modern skincare routine. A nourishing cream that floods skin with moisture and helps strengthen the skin barrier for a plump, healthy-looking complexion. Presented in a 50 ml size for consistent, everyday use.",
+      "benefits": [
+        "Deep hydration",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "92% Snail Secretion Filtrate ত্বকের hydration ও moisture care-এ সহায়তা করে ত্বকের moisture ধরে রাখতে সাহায্য করে Dry ও dehydrated feeling কমিয়ে ত্বককে comfortable রাখতে সহায়তা করে ত্বককে আরও smooth ও soft-looking দেখাতে সাহায্য করে ত্বককে hydrated ও plump-looking appearance দিতে সহায়তা করে Skin barrier-এর moisture care-এ সাহায্য করে Uneven skin texture-এর appearance আরও refined দেখাতে সহায়তা করে Allantoin ও Panthenol ত্বকের soothing ও conditioning care-এ সহায়তা করে Sodium Hyaluronate ত্বকের hydration বজায় রাখতে সাহায্য করে ত্বকের natural glow ও healthy-looking appearance বজায় রাখতে সহায়তা করে Lightweight gel-cream texture ত্বকে সহজে spread করতে সাহায্য করে Makeup-এর আগে moisturizer হিসেবে ব্যবহার করা যায় ৫০ ml tube সাইজ হওয়ায় skincare routine-এ বহন ও ব্যবহার করা সুবিধাজনক"
+      ],
+      "howToUse": "Cleanser, toner ও serum ব্যবহারের পর skincare routine-এর moisturizer ধাপে পর্যাপ্ত পরিমাণ cream মুখে apply করুন। মুখ ও গলায় সমানভাবে লাগিয়ে আলতোভাবে massage বা pat করুন, যাতে ভালোভাবে absorb হয়। সকালে ব্যবহার করলে cream-এর পরে sunscreen apply করুন। রাতে skincare routine-এর শেষ ধাপে এটি moisturizer হিসেবে ব্যবহার করা যেতে পারে।",
+      "ingredients": [
+        "Snail Secretion Filtrate 96%",
+        "Betaine",
+        "Sodium Hyaluronate",
+        "Arginine",
+        "Allantoin",
+        "Panthenol"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Hydration"
+      ],
+      "faq": [
+        {
+          "q": "Is Cosrx advance snail 92 all in one cream (Tube) authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Cosrx advance snail 92 all in one cream (Tube) suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "50 ml",
+          "sku": "COS-SNAIL92-TUBE-50",
+          "stock": 0,
+          "price": 900,
+          "oldPrice": 1500,
+          "image": "https://d2c3d01lcpw2ui.cloudfront.net/gl/data/item/1730795449/dafef7a401f34b499131127e706f264c176586710844151490cb52bdc.webp"
+        }
+      ]
+    },
+    {
+      "title": "COSRX - Low pH Good Morning Gel Cleanser",
+      "brand": "COSRX",
+      "category": "Cleanser",
+      "mainCategory": "Skincare",
+      "productType": "Cleanser",
+      "size": "50 ml",
+      "sku": "COS-LOWPH-50",
+      "oldPrice": 840,
+      "offerPrice": 499,
+      "discountPct": 41,
+      "stock": 3,
+      "imageUrl": "https://lavishta.com/wp-content/uploads/2024/12/Cosrx-Low-pH-Good-Morning-Gel-Cleanser-50ml.jpg.jpg",
+      "gallery": [
+        "https://lavishta.com/wp-content/uploads/2024/12/Cosrx-Low-pH-Good-Morning-Gel-Cleanser-50ml.jpg.jpg"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A gentle yet effective cleanser that lifts away impurities, excess sebum and makeup residue while leaving skin soft, comfortable and balanced.",
+      "description": "COSRX - Low pH Good Morning Gel Cleanser by COSRX — a cleanser curated for the modern skincare routine. A gentle yet effective cleanser that lifts away impurities, excess sebum and makeup residue while leaving skin soft, comfortable and balanced. Presented in a 50 ml size for consistent, everyday use.",
+      "benefits": [
+        "Deep cleansing",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "Low pH formula ত্বকের স্বাভাবিক pH balance বজায় রেখে cleansing করতে সাহায্য করে ত্বকের উপর জমে থাকা ময়লা ও দৈনন্দিন impurities পরিষ্কার করতে সাহায্য করে অতিরিক্ত sebum পরিষ্কার করতে সহায়তা করে Betaine Salicylate ত্বকের surface ও pores পরিষ্কার রাখতে সাহায্য করে Clogged pores-এর মধ্যে জমে থাকা impurities কমাতে সহায়তা করে Tea Tree Leaf Oil ত্বককে fresh ও পরিষ্কার অনুভূতি দিতে সাহায্য করে ত্বককে clean ও refreshed অনুভূতি দিতে সহায়তা করে Gel texture পানির সঙ্গে ব্যবহার করলে হালকা foam তৈরি করে Allantoin ত্বকের conditioning ও comfort বজায় রাখতে সাহায্য করে Betaine ত্বকের moisture balance বজায় রাখতে সহায়তা করে Morning ও evening skincare routine-এ ব্যবহার করা যায় ৫০ ml সাইজ হওয়ায় travel বা skincare routine-এ বহন করা সুবিধাজনক"
+      ],
+      "howToUse": "Massage a small amount onto damp skin in gentle circular motions, then rinse thoroughly with lukewarm water. Use morning and evening.",
+      "ingredients": [
+        "Water, Cocamidopropyl Betaine, Sodium Lauroyl Methyl Isethionate, Polysorbate 20, Styrax Japonicus Branch/Fruit/Leaf Extract, Butylene Glycol, Betaine Salicylate, Tea Tree Leaf Oil, Saccharomyces Ferment, Cryptomeria Japonica Leaf Extract, Nelumbo Nucifera Leaf Extract, Pinus Palustris Leaf Extract, Ulmus Davidiana Root Extract, Oenothera Biennis Flower Extract, Pueraria Lobata Root Extract, Betaine, Allantoin, Ethylhexylglycerin, Caprylyl Glycol, Citric Acid, Disodium EDTA."
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Hydration"
+      ],
+      "faq": [
+        {
+          "q": "Is COSRX - Low pH Good Morning Gel Cleanser authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is COSRX - Low pH Good Morning Gel Cleanser suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "50 ml",
+          "sku": "COS-LOWPH-50",
+          "stock": 3,
+          "price": 499,
+          "oldPrice": 840,
+          "image": "https://lavishta.com/wp-content/uploads/2024/12/Cosrx-Low-pH-Good-Morning-Gel-Cleanser-50ml.jpg.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Madagascar Centella Hyalu-Cica Water-Fit Sun Serum",
+      "brand": "SKIN1004",
+      "category": "Serum",
+      "mainCategory": "Skincare",
+      "productType": "Serum",
+      "size": "15 ml",
+      "sku": "SKI1004-MCHCWFSS-15",
+      "oldPrice": 1200,
+      "offerPrice": 850,
+      "discountPct": 29,
+      "stock": 11,
+      "imageUrl": "https://finelook.com/cdn/shop/files/Hyalu-CicaSunSerumTwinPack2.png?v=1740466747",
+      "gallery": [
+        "https://finelook.com/cdn/shop/files/Hyalu-CicaSunSerumTwinPack2.png?v=1740466747"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives.",
+      "description": "Madagascar Centella Hyalu-Cica Water-Fit Sun Serum by SKIN1004 — a serum curated for the modern skincare routine. A concentrated treatment serum formulated to target your key skincare concerns with visible, results-driven actives. Presented in a 15 ml size for consistent, everyday use.",
+      "benefits": [
+        "Targeted treatment",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "SPF50+ / PA++++ protection-এর মাধ্যমে UVA ও UVB রশ্মি থেকে ত্বককে সুরক্ষিত রাখতে সাহায্য করে একাধিক modern UV filters-এর মাধ্যমে broad-spectrum UV protection-এ সহায়তা করে Centella Asiatica Extract ত্বকের soothing ও conditioning care-এ সহায়তা করে Hyaluronic Acid, Hydrolyzed Hyaluronic Acid ও Sodium Hyaluronate ত্বকের hydration বজায় রাখতে সাহায্য করে Niacinamide ত্বকের skin-conditioning care-এ সহায়তা করে Ceramide NP ত্বকের moisture barrier care-এ সহায়তা করে ত্বককে hydrated ও fresh-looking রাখতে সাহায্য করে Water-fit serum texture ত্বকে সহজে spread করতে সাহায্য করে Lightweight feel দেওয়ার জন্য তৈরি ত্বকে comfortable ও moisturizing feel দিতে সাহায্য করে Makeup-এর আগে ব্যবহার করা যায় Daily morning skincare routine-এর জন্য উপযোগী ১৫ ml সাইজ হওয়ায় travel বা ছোট সাইজের daily use-এর জন্য সুবিধাজনক"
+      ],
+      "howToUse": "After toning, dispense 2-3 drops and press gently into skin. Follow with moisturizer. Use in the morning or evening as directed.",
+      "ingredients": [
+        "Centella Asiatica Extract",
+        "Hyaluronic Acid",
+        "Niacinamide",
+        "Madecassoside",
+        "Glycerin"
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Sun Protection",
+        "Soothing"
+      ],
+      "faq": [
+        {
+          "q": "Is Madagascar Centella Hyalu-Cica Water-Fit Sun Serum authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is Madagascar Centella Hyalu-Cica Water-Fit Sun Serum suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "15 ml",
+          "sku": "SKI1004-MCHCWFSS-15",
+          "stock": 11,
+          "price": 850,
+          "oldPrice": 1200,
+          "image": "https://finelook.com/cdn/shop/files/Hyalu-CicaSunSerumTwinPack2.png?v=1740466747"
+        }
+      ]
+    },
+    {
+      "title": "THE VITA-A Retinal Shot Tightening Booster",
+      "brand": "Celimax",
+      "category": "Booster",
+      "mainCategory": "Skincare",
+      "productType": "Booster",
+      "size": "15 ml",
+      "sku": "CEL-BOO-VITA-A-15",
+      "oldPrice": 1700,
+      "offerPrice": 1400,
+      "discountPct": 18,
+      "stock": 11,
+      "imageUrl": "https://thekbeautyedit.co.uk/cdn/shop/files/imgi_46_1749542844097_67e047e92f724788922c4396a4392271.jpg?v=1772557888&width=1445",
+      "gallery": [
+        "https://thekbeautyedit.co.uk/cdn/shop/files/imgi_46_1749542844097_67e047e92f724788922c4396a4392271.jpg?v=1772557888&width=1445"
+      ],
+      "tags": [
+        "CellImage"
+      ],
+      "shortDescription": "A treatment booster that primes skin with a burst of potent actives ahead of your daily serums and creams.",
+      "description": "THE VITA-A Retinal Shot Tightening Booster by Celimax — a booster curated for the modern skincare routine. A treatment booster that primes skin with a burst of potent actives ahead of your daily serums and creams. Presented in a 15 ml size for consistent, everyday use.",
+      "benefits": [
+        "Potency boost",
+        "Improves overall skin tone & texture",
+        "Suitable for daily use",
+        "Retinal-based formula ত্বকের texture আরও smooth-looking করতে সাহায্য করে Fine lines ও wrinkles-এর appearance-এর care-এ সহায়তা করে ত্বককে firmer ও more elastic-looking দেখাতে সাহায্য করে Enlarged pores-এর appearance refined দেখাতে সহায়তা করে Uneven skin texture-এর appearance improve করতে সাহায্য করে Niacinamide ত্বকের skin-conditioning care-এ সহায়তা করে Panthenol ত্বকের soothing ও moisture care-এ সাহায্য করে Adenosine skin-conditioning ও anti-wrinkle care-এ সহায়তা করে Hyaluronic Acid-এর বিভিন্ন form ত্বকের hydration বজায় রাখতে সাহায্য করে Allantoin ত্বকের comfort ও conditioning care-এ সহায়তা করে ত্বককে smoother ও healthier-looking appearance দিতে সাহায্য করে ১৫ ml সাইজ হওয়ায় targeted facial skincare routine-এর জন্য সুবিধাজনক"
+      ],
+      "howToUse": "Apply a few drops to freshly cleansed skin, allow to absorb, then continue with your remaining routine.",
+      "ingredients": [
+        "Water, Glycerin, Propanediol, Butylene Glycol, Niacinamide, Caprylic/Capric Triglyceride, Cetearyl Alcohol, 1,2-Hexanediol, Retinal, Panthenol, Adenosine, Sodium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Allantoin, Tocopherol, Carbomer, Arginine, Xanthan Gum, Ethylhexylglycerin, Disodium EDTA."
+      ],
+      "skinTypes": [
+        "Dry",
+        "Oily",
+        "Combination",
+        "Normal",
+        "Sensitive"
+      ],
+      "concerns": [
+        "Anti-Aging"
+      ],
+      "faq": [
+        {
+          "q": "Is THE VITA-A Retinal Shot Tightening Booster authentic?",
+          "a": "Yes — every item is sourced from authorized distributors and verified for authenticity before dispatch."
+        },
+        {
+          "q": "Who is THE VITA-A Retinal Shot Tightening Booster suitable for?",
+          "a": "Formulated for dry, oily, combination skin. Patch test first if you have very sensitive skin."
+        },
+        {
+          "q": "What is the delivery time?",
+          "a": "Inside Dhaka 1–2 working days, outside Dhaka 2–4 working days after confirmation."
+        }
+      ],
+      "variants": [
+        {
+          "size": "15 ml",
+          "sku": "CEL-BOO-VITA-A-15",
+          "stock": 11,
+          "price": 1400,
+          "oldPrice": 1700,
+          "image": "https://thekbeautyedit.co.uk/cdn/shop/files/imgi_46_1749542844097_67e047e92f724788922c4396a4392271.jpg?v=1772557888&width=1445"
+        }
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "eyebrow": "Limited Time",
+      "title": "Up to 30% Off\nBeauty of Joseon",
+      "description": "Stock up on the Relief Sun and Glow Serum — our most-loved rice and honey essentials, now at their lowest price this month.",
+      "buttonText": "Shop the Offer",
+      "image": "https://aubeautybazaar.com/cdn/shop/files/beauty-of-joseon-relief-sun-10ml-3896945.png?v=1771417989",
+      "link": "/products/4",
+      "enabled": true,
+      "sortOrder": 1,
+      "startDate": "2026-09-18",
+      "endDate": null
+    },
+    {
+      "eyebrow": "Limited Time",
+      "title": "Up to 13% Off\nBeauty of Joseon",
+      "description": "Refresh your routine with Beauty of Joseon's bestselling rice-powered essentials, including Relief Sun and Glow Deep Serum.",
+      "buttonText": "Shop the Offer",
+      "image": "https://poripati.net/wp-content/uploads/2026/04/Beauty-Of-Joseon-Relief-Sun-Aqua-Fresh-Rice-B5-SPF50-PA.jpg",
+      "link": "/products/5",
+      "enabled": true,
+      "sortOrder": 2,
+      "startDate": "2026-09-18",
+      "endDate": null
+    },
+    {
+      "eyebrow": "Best Seller",
+      "title": "12% Off\nGlow & Brighten",
+      "description": "Bring back your skin's natural glow with our bestselling serums, ampoules, and brightening essentials.",
+      "buttonText": "Shop the Offer",
+      "image": "https://glamournupur.com/wp-content/uploads/2025/11/Beaute-Glutathione-Brightening-Tone-Up-Cream-45ml.jpg",
+      "link": "/products/22",
+      "enabled": true,
+      "sortOrder": 3,
+      "startDate": "2026-09-18",
+      "endDate": null
+    },
+    {
+      "eyebrow": "Limited Time",
+      "title": "20% Off\nDark Spot Care",
+      "description": "Target the look of dark spots and uneven tone with Axis-Y's popular brightening skincare essentials.",
+      "buttonText": "Shop the Offer",
+      "image": "https://static-01.daraz.com.bd/p/5429918527edbea7550021f81fb3fb2a.jpg",
+      "link": "/products/18",
+      "enabled": true,
+      "sortOrder": 4,
+      "startDate": "2026-09-18",
+      "endDate": null
+    },
+    {
+      "eyebrow": "Special Offer",
+      "title": "24% Off\nSkin1004 Essentials",
+      "description": "Discover gentle Centella-powered skincare designed to soothe, hydrate, and refresh your skin every day.",
+      "buttonText": "Shop the Offer",
+      "image": "https://kcbazar.com/wp-content/uploads/2025/03/SKIN1004-Madagascar-Centella-Hyalu-Cica-Water-Fit-Sun-Serum-Spf-50-PA-50-ml-2-1.jpg",
+      "link": "/products/9",
+      "enabled": true,
+      "sortOrder": 5,
+      "startDate": "2026-09-18",
+      "endDate": null
+    },
+    {
+      "eyebrow": "Limited Time",
+      "title": "13% Off\nDabo Skincare",
+      "description": "Upgrade your daily routine with Dabo's collection of cleansers, creams, ampoules, and brightening essentials.",
+      "buttonText": "Shop the Offer",
+      "image": "https://majesticabd.com/wp-content/uploads/2026/07/file_00000000aeec71fdaa1e206852c34388-768x768.png",
+      "link": "/products/25",
+      "enabled": true,
+      "sortOrder": 6,
+      "startDate": "2026-09-18",
+      "endDate": null
+    },
+    {
+      "eyebrow": "Hot Deal",
+      "title": "23% Off\nSelected Essentials",
+      "description": "From cleansing to hydration and sun protection, save on selected skincare favorites while stocks last.",
+      "buttonText": "Shop the Offer",
+      "image": "https://static-01.daraz.com.bd/p/92bd7a37a758f55d0e3cf2cfec9c2671.jpg",
+      "link": "/products/10",
+      "enabled": true,
+      "sortOrder": 7,
+      "startDate": "2026-09-18",
+      "endDate": null
+    },
+    {
+      "eyebrow": "Best Seller",
+      "title": "20% Off\nBrightening Favorites",
+      "description": "Glow up your routine with carefully selected brightening creams, serums, toners, and ampoules.",
+      "buttonText": "Shop the Offer",
+      "image": "https://koreanhomee.com/wp-content/uploads/2024/08/IMG_8473.jpeg",
+      "link": "/products/20",
+      "enabled": true,
+      "sortOrder": 8,
+      "startDate": "2026-09-18",
+      "endDate": null
+    },
+    {
+      "eyebrow": "Limited Time",
+      "title": "13% Off\nSun Care Favorites",
+      "description": "Protect your daily glow with selected sunscreens from Beauty of Joseon, Skin1004, Missha, and more.",
+      "buttonText": "Shop the Offer",
+      "image": "https://chardike-bucket.s3.amazonaws.com/media/product/main_image/NATURE_SKIN_UV_Tone_Up_Sun_Cream_SPF50_PA.webp",
+      "link": "/products/40",
+      "enabled": true,
+      "sortOrder": 9,
+      "startDate": "2026-09-18",
+      "endDate": null
+    }
+  ]
+}

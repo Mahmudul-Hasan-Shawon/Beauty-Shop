@@ -7,7 +7,7 @@
     "postinstall": "cd server && npm install && cd ../client && npm install",
     "dev": "concurrently -n api,web -c magenta,cyan \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
     "dev:lan": "concurrently -n api,web -c magenta,cyan \"npm run dev --prefix server\" \"npm run dev:lan --prefix client\"",
-    "build": "npm run build --prefix client && npm run build --prefix server",
+    "build": "npm run build --prefix client",
     "start": "cross-env NODE_ENV=production node server/src/server.js",
     "seed": "node server/src/seed.js",
     "deploy": "wrangler deploy",

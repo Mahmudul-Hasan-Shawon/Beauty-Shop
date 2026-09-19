@@ -1,7 +1,7 @@
 const API_ORIGIN = 'https://petalsrose.mhshan177.workers.dev';
 
 export async function onRequest(context) {
-  const { request, next } = context;
+  const { request, next, env } = context;
   const url = new URL(request.url);
 
   if (url.pathname.startsWith('/api') || url.pathname.startsWith('/uploads')) {
@@ -18,5 +18,13 @@ export async function onRequest(context) {
     return fetch(target, init);
   }
 
-  return next();
+  const response = await next();
+  if (response.status === 404) {
+    const index = await env.ASSETS.fetch('http://localhost/index.html');
+    return new Response(index.body, {
+      status: 200,
+      headers: { 'content-type': 'text/html;charset=UTF-8' },
+    });
+  }
+  return response;
 }

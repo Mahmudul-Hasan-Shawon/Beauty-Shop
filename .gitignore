@@ -1,0 +1,16 @@
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
+
+# dependencies
+node_modules
+client/node_modules
+server/node_modules
+
+# local database files
+server/data/*.db
+server/data/*.db-shm
+server/data/*.db-wal

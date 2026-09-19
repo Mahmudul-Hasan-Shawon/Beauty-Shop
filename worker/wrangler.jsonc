@@ -1,0 +1,14 @@
+{
+  "$schema": "../node_modules/wrangler/config-schema.json",
+  "name": "petalsrose-api",
+  "main": "src/index.js",
+  "compatibility_date": "2026-09-19",
+  "workers_dev": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "petalsrose",
+      "database_id": "2033025f-a6f0-4d15-b974-9d74b41360de"
+    }
+  ]
+}

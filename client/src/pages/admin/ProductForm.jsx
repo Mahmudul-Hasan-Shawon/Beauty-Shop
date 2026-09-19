@@ -5,7 +5,7 @@ import { useApp } from '../../store';
 
 const EMPTY = {
   sku: '', title: '', brand_id: '', category_id: '', mainCategory: 'Skincare', productType: '', size: '',
-  description: '', shortDescription: '', price: '', salePrice: '', discount: 0, stock: 0,
+  description: '', price: '', salePrice: '', discount: 0, stock: 0,
   status: 'published', featured: false, bestSeller: false, newArrival: false, trending: false, onSale: true,
   rating: 4.5, tags: [], ingredients: [], benefits: [], howToUse: '', skinTypes: [], concerns: [],
   images: [], thumbnail: '', seoTitle: '', seoDescription: '',
@@ -127,7 +127,6 @@ export default function ProductForm() {
 
         <div className="admin-card">
           <h3>Content</h3>
-          <div className="field"><label>Short description</label><textarea value={f.shortDescription} onChange={(e) => set('shortDescription', e.target.value)} /></div>
           <div className="field"><label>Full description</label><textarea value={f.description} onChange={(e) => set('description', e.target.value)} /></div>
           <div className="field"><label>How to use</label><textarea value={f.howToUse} onChange={(e) => set('howToUse', e.target.value)} /></div>
           <div className="form-grid">

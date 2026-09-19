@@ -27,7 +27,7 @@ export default function Login() {
   };
 
   return (
-    <div style={{ minHeight: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center', background: '#241c19', padding: 20 }}>
+    <div className="admin-login" style={{ minHeight: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center', background: '#141210', padding: 20 }}>
       <form className="admin-card" style={{ width: 380 }} onSubmit={submit}>
         <div style={{ textAlign: 'center', marginBottom: 20 }}>
           <div className="brand" style={{ color: 'var(--ink)', fontSize: 22 }}>Petal <em>&</em> Rose</div>
